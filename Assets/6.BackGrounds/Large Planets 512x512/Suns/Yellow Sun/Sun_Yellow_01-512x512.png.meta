@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: de1cc4792d85e5144ae81fe92f86a986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6262894372700552141
+    second: Sun_Yellow_01-512x512_0
+  - first:
+      213: -7872472318350049072
+    second: Sun_Yellow_01-512x512_1
+  - first:
+      213: 3265168306143875568
+    second: Sun_Yellow_01-512x512_2
+  - first:
+      213: 3499025429202156498
+    second: Sun_Yellow_01-512x512_3
+  - first:
+      213: -4729920568568161191
+    second: Sun_Yellow_01-512x512_4
+  - first:
+      213: 2990862644147246711
+    second: Sun_Yellow_01-512x512_5
+  - first:
+      213: -4478385511899232500
+    second: Sun_Yellow_01-512x512_6
+  - first:
+      213: 2368405275182294500
+    second: Sun_Yellow_01-512x512_7
+  - first:
+      213: -2403471441215780532
+    second: Sun_Yellow_01-512x512_8
+  - first:
+      213: 9014346781486096623
+    second: Sun_Yellow_01-512x512_9
+  - first:
+      213: 5261447245038197351
+    second: Sun_Yellow_01-512x512_10
+  - first:
+      213: -4549455958086139655
+    second: Sun_Yellow_01-512x512_11
+  - first:
+      213: -5646241411365271126
+    second: Sun_Yellow_01-512x512_12
+  - first:
+      213: 2864387106541090909
+    second: Sun_Yellow_01-512x512_13
+  - first:
+      213: -4137768666847374931
+    second: Sun_Yellow_01-512x512_14
+  - first:
+      213: -2907840701972383981
+    second: Sun_Yellow_01-512x512_15
+  - first:
+      213: -1716125627095701981
+    second: Sun_Yellow_01-512x512_16
+  - first:
+      213: 7005833183228493196
+    second: Sun_Yellow_01-512x512_17
+  - first:
+      213: -4802250448769063500
+    second: Sun_Yellow_01-512x512_18
+  - first:
+      213: 7956909033565589481
+    second: Sun_Yellow_01-512x512_19
+  - first:
+      213: -7001989550627507148
+    second: Sun_Yellow_01-512x512_20
+  - first:
+      213: 5077694946824744809
+    second: Sun_Yellow_01-512x512_21
+  - first:
+      213: 4937515865512612145
+    second: Sun_Yellow_01-512x512_22
+  - first:
+      213: -8929919748046668227
+    second: Sun_Yellow_01-512x512_23
+  - first:
+      213: 9036149225194085549
+    second: Sun_Yellow_01-512x512_24
+  - first:
+      213: -5514938092386989266
+    second: Sun_Yellow_01-512x512_25
+  - first:
+      213: -1281121086113097950
+    second: Sun_Yellow_01-512x512_26
+  - first:
+      213: -3038870599550986084
+    second: Sun_Yellow_01-512x512_27
+  - first:
+      213: -6776467127164921822
+    second: Sun_Yellow_01-512x512_28
+  - first:
+      213: -7783972319408178917
+    second: Sun_Yellow_01-512x512_29
+  - first:
+      213: 6941658404181993127
+    second: Sun_Yellow_01-512x512_30
+  - first:
+      213: -8807239113901277719
+    second: Sun_Yellow_01-512x512_31
+  - first:
+      213: 1658749510144552640
+    second: Sun_Yellow_01-512x512_32
+  - first:
+      213: -6122515500678749774
+    second: Sun_Yellow_01-512x512_33
+  - first:
+      213: -4014325918402396714
+    second: Sun_Yellow_01-512x512_34
+  - first:
+      213: 8667902424443254964
+    second: Sun_Yellow_01-512x512_35
+  - first:
+      213: -3579228654232616341
+    second: Sun_Yellow_01-512x512_36
+  - first:
+      213: 537904062541443013
+    second: Sun_Yellow_01-512x512_37
+  - first:
+      213: 863473888698975414
+    second: Sun_Yellow_01-512x512_38
+  - first:
+      213: -2671305412760928314
+    second: Sun_Yellow_01-512x512_39
+  - first:
+      213: -8432500000824078880
+    second: Sun_Yellow_01-512x512_40
+  - first:
+      213: -4258915350659676116
+    second: Sun_Yellow_01-512x512_41
+  - first:
+      213: 7169608109070321878
+    second: Sun_Yellow_01-512x512_42
+  - first:
+      213: 889360568570353967
+    second: Sun_Yellow_01-512x512_43
+  - first:
+      213: -1106302304866508426
+    second: Sun_Yellow_01-512x512_44
+  - first:
+      213: 2862832524051937453
+    second: Sun_Yellow_01-512x512_45
+  - first:
+      213: 3196757364864590988
+    second: Sun_Yellow_01-512x512_46
+  - first:
+      213: 6975303130900013297
+    second: Sun_Yellow_01-512x512_47
+  - first:
+      213: -6619029752197340155
+    second: Sun_Yellow_01-512x512_48
+  - first:
+      213: 3970805961174866262
+    second: Sun_Yellow_01-512x512_49
+  - first:
+      213: -783097242181051429
+    second: Sun_Yellow_01-512x512_50
+  - first:
+      213: -4715212527509630268
+    second: Sun_Yellow_01-512x512_51
+  - first:
+      213: -4905652165741555373
+    second: Sun_Yellow_01-512x512_52
+  - first:
+      213: 1995594881886143996
+    second: Sun_Yellow_01-512x512_53
+  - first:
+      213: 7472512703732548060
+    second: Sun_Yellow_01-512x512_54
+  - first:
+      213: -7756414586779819253
+    second: Sun_Yellow_01-512x512_55
+  - first:
+      213: 5493085757385035245
+    second: Sun_Yellow_01-512x512_56
+  - first:
+      213: 8566161400548929378
+    second: Sun_Yellow_01-512x512_57
+  - first:
+      213: -806562125267514361
+    second: Sun_Yellow_01-512x512_58
+  - first:
+      213: -5352815464116421470
+    second: Sun_Yellow_01-512x512_59
+  - first:
+      213: 4687456851644390207
+    second: Sun_Yellow_01-512x512_60
+  - first:
+      213: -2143810747712708331
+    second: Sun_Yellow_01-512x512_61
+  - first:
+      213: -9125126878808620383
+    second: Sun_Yellow_01-512x512_62
+  - first:
+      213: 3619943845152608287
+    second: Sun_Yellow_01-512x512_63
+  - first:
+      213: -5375161272561053663
+    second: Sun_Yellow_01-512x512_64
+  - first:
+      213: 6486457836357868241
+    second: Sun_Yellow_01-512x512_65
+  - first:
+      213: 7789186862930745743
+    second: Sun_Yellow_01-512x512_66
+  - first:
+      213: -8748496274784737373
+    second: Sun_Yellow_01-512x512_67
+  - first:
+      213: 1193535594086880630
+    second: Sun_Yellow_01-512x512_68
+  - first:
+      213: -1753669452164219610
+    second: Sun_Yellow_01-512x512_69
+  - first:
+      213: 4769865366181017997
+    second: Sun_Yellow_01-512x512_70
+  - first:
+      213: 2312817751930480861
+    second: Sun_Yellow_01-512x512_71
+  - first:
+      213: -277704167154867516
+    second: Sun_Yellow_01-512x512_72
+  - first:
+      213: 5238581467151227879
+    second: Sun_Yellow_01-512x512_73
+  - first:
+      213: 3189551974907722877
+    second: Sun_Yellow_01-512x512_74
+  - first:
+      213: -2104825084095547677
+    second: Sun_Yellow_01-512x512_75
+  - first:
+      213: 1246403378500898762
+    second: Sun_Yellow_01-512x512_76
+  - first:
+      213: 7704475610896150771
+    second: Sun_Yellow_01-512x512_77
+  - first:
+      213: 6165289231452527839
+    second: Sun_Yellow_01-512x512_78
+  - first:
+      213: 434863926953330378
+    second: Sun_Yellow_01-512x512_79
+  - first:
+      213: -471484758295408476
+    second: Sun_Yellow_01-512x512_80
+  - first:
+      213: 8362670256895194728
+    second: Sun_Yellow_01-512x512_81
+  - first:
+      213: 3962338772892951363
+    second: Sun_Yellow_01-512x512_82
+  - first:
+      213: -3995499322211660545
+    second: Sun_Yellow_01-512x512_83
+  - first:
+      213: -6897949239363758406
+    second: Sun_Yellow_01-512x512_84
+  - first:
+      213: 2417669888239484594
+    second: Sun_Yellow_01-512x512_85
+  - first:
+      213: -2906318051730479081
+    second: Sun_Yellow_01-512x512_86
+  - first:
+      213: 1940958503273893194
+    second: Sun_Yellow_01-512x512_87
+  - first:
+      213: 620571832447913479
+    second: Sun_Yellow_01-512x512_88
+  - first:
+      213: 6258219921272339773
+    second: Sun_Yellow_01-512x512_89
+  - first:
+      213: 3115427651494050335
+    second: Sun_Yellow_01-512x512_90
+  - first:
+      213: 2843743943411962783
+    second: Sun_Yellow_01-512x512_91
+  - first:
+      213: -5125488971299654082
+    second: Sun_Yellow_01-512x512_92
+  - first:
+      213: -822986086088204455
+    second: Sun_Yellow_01-512x512_93
+  - first:
+      213: 2912719745356953883
+    second: Sun_Yellow_01-512x512_94
+  - first:
+      213: -8011811902074877852
+    second: Sun_Yellow_01-512x512_95
+  - first:
+      213: 8027544452582561570
+    second: Sun_Yellow_01-512x512_96
+  - first:
+      213: -587400470785512843
+    second: Sun_Yellow_01-512x512_97
+  - first:
+      213: -8223249977077799961
+    second: Sun_Yellow_01-512x512_98
+  - first:
+      213: 3698741435023321028
+    second: Sun_Yellow_01-512x512_99
+  - first:
+      213: -7432912739794084296
+    second: Sun_Yellow_01-512x512_100
+  - first:
+      213: 6321916146544866169
+    second: Sun_Yellow_01-512x512_101
+  - first:
+      213: -6570285522413296972
+    second: Sun_Yellow_01-512x512_102
+  - first:
+      213: 7417279786872852552
+    second: Sun_Yellow_01-512x512_103
+  - first:
+      213: 1442829006477043236
+    second: Sun_Yellow_01-512x512_104
+  - first:
+      213: 7529144423770537506
+    second: Sun_Yellow_01-512x512_105
+  - first:
+      213: 3825567529386924876
+    second: Sun_Yellow_01-512x512_106
+  - first:
+      213: -4850064468252846359
+    second: Sun_Yellow_01-512x512_107
+  - first:
+      213: 7838137731338509978
+    second: Sun_Yellow_01-512x512_108
+  - first:
+      213: 5832930432769477944
+    second: Sun_Yellow_01-512x512_109
+  - first:
+      213: -3030751248224032524
+    second: Sun_Yellow_01-512x512_110
+  - first:
+      213: -4242198196652499020
+    second: Sun_Yellow_01-512x512_111
+  - first:
+      213: -8654281579860163613
+    second: Sun_Yellow_01-512x512_112
+  - first:
+      213: 488135022056182965
+    second: Sun_Yellow_01-512x512_113
+  - first:
+      213: 4047749122374408317
+    second: Sun_Yellow_01-512x512_114
+  - first:
+      213: -5283995048153559240
+    second: Sun_Yellow_01-512x512_115
+  - first:
+      213: 6721102360937696154
+    second: Sun_Yellow_01-512x512_116
+  - first:
+      213: -5518917267922175512
+    second: Sun_Yellow_01-512x512_117
+  - first:
+      213: 4685189641986421789
+    second: Sun_Yellow_01-512x512_118
+  - first:
+      213: -2070878412577919468
+    second: Sun_Yellow_01-512x512_119
+  - first:
+      213: -2442431166913064806
+    second: Sun_Yellow_01-512x512_120
+  - first:
+      213: 3906884524754414896
+    second: Sun_Yellow_01-512x512_121
+  - first:
+      213: -6887928299132960205
+    second: Sun_Yellow_01-512x512_122
+  - first:
+      213: -1954880775061645917
+    second: Sun_Yellow_01-512x512_123
+  - first:
+      213: -3042144544229834032
+    second: Sun_Yellow_01-512x512_124
+  - first:
+      213: -7645774022640604555
+    second: Sun_Yellow_01-512x512_125
+  - first:
+      213: -1150408409852584920
+    second: Sun_Yellow_01-512x512_126
+  - first:
+      213: 2990883069074242542
+    second: Sun_Yellow_01-512x512_127
+  - first:
+      213: -4333161482639206108
+    second: Sun_Yellow_01-512x512_128
+  - first:
+      213: 1901430941729404740
+    second: Sun_Yellow_01-512x512_129
+  - first:
+      213: 5958376623297450359
+    second: Sun_Yellow_01-512x512_130
+  - first:
+      213: -1561755031960900770
+    second: Sun_Yellow_01-512x512_131
+  - first:
+      213: -2499173999524189004
+    second: Sun_Yellow_01-512x512_132
+  - first:
+      213: 7695427581747788914
+    second: Sun_Yellow_01-512x512_133
+  - first:
+      213: 2306528422975537833
+    second: Sun_Yellow_01-512x512_134
+  - first:
+      213: 604771338502865897
+    second: Sun_Yellow_01-512x512_135
+  - first:
+      213: -2773286455539113487
+    second: Sun_Yellow_01-512x512_136
+  - first:
+      213: 2292758364800461816
+    second: Sun_Yellow_01-512x512_137
+  - first:
+      213: -3575375955455880777
+    second: Sun_Yellow_01-512x512_138
+  - first:
+      213: 3426547388710302297
+    second: Sun_Yellow_01-512x512_139
+  - first:
+      213: 3124550816331675056
+    second: Sun_Yellow_01-512x512_140
+  - first:
+      213: 3991847622312383721
+    second: Sun_Yellow_01-512x512_141
+  - first:
+      213: -968355917780158441
+    second: Sun_Yellow_01-512x512_142
+  - first:
+      213: 6343893032809929160
+    second: Sun_Yellow_01-512x512_143
+  - first:
+      213: -7704826419330694751
+    second: Sun_Yellow_01-512x512_144
+  - first:
+      213: 4022538024438195677
+    second: Sun_Yellow_01-512x512_145
+  - first:
+      213: -4476235833086828435
+    second: Sun_Yellow_01-512x512_146
+  - first:
+      213: -5443954353911815625
+    second: Sun_Yellow_01-512x512_147
+  - first:
+      213: -1848924635724239082
+    second: Sun_Yellow_01-512x512_148
+  - first:
+      213: -5182082978874298626
+    second: Sun_Yellow_01-512x512_149
+  - first:
+      213: 5894483396159370638
+    second: Sun_Yellow_01-512x512_150
+  - first:
+      213: -1103426827259766536
+    second: Sun_Yellow_01-512x512_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfb9eef354ae650800000000000000
+      internalID: 6262894372700552141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d046a8f22c5fb290800000000000000
+      internalID: -7872472318350049072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d19b5645305d20800000000000000
+      internalID: 3265168306143875568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db37a7d6190f8030800000000000000
+      internalID: 3499025429202156498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5ea69d42fb5eb0800000000000000
+      internalID: -4729920568568161191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d1648abda18920800000000000000
+      internalID: 2990862644147246711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c078dfbba1499d1c0800000000000000
+      internalID: -4478385511899232500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5e667ac044ed020800000000000000
+      internalID: 2368405275182294500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498986557725aed0800000000000000
+      internalID: -2403471441215780532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02aa043a4691d70800000000000000
+      internalID: 9014346781486096623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a95fc946a640940800000000000000
+      internalID: 5261447245038197351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0cdf009e51dd0c0800000000000000
+      internalID: -4549455958086139655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa90977f95584a1b0800000000000000
+      internalID: -5646241411365271126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d583790b5e850c720800000000000000
+      internalID: 2864387106541090909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da112d10251b396c0800000000000000
+      internalID: -4137768666847374931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177387b94645a7d0800000000000000
+      internalID: -2907840701972383981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262407a5d81f28e0800000000000000
+      internalID: -1716125627095701981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7af16928b93160800000000000000
+      internalID: 7005833183228493196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e8a609aafa5db0800000000000000
+      internalID: -4802250448769063500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef06c7cb9e9c6e60800000000000000
+      internalID: 7956909033565589481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434b9d11a9fe3de90800000000000000
+      internalID: -7001989550627507148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe84fb6a8977640800000000000000
+      internalID: 5077694946824744809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1311cb40584958440800000000000000
+      internalID: 4937515865512612145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ebee84d4d821480800000000000000
+      internalID: -8929919748046668227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac5d1148d9d66d70800000000000000
+      internalID: 9036149225194085549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc00d36010773b0800000000000000
+      internalID: -5514938092386989266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 484
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22757fbe82b883ee0800000000000000
+      internalID: -1281121086113097950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9892635a43c3d5d0800000000000000
+      internalID: -3038870599550986084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22819351d0725f1a0800000000000000
+      internalID: -6776467127164921822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 476
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b330ba66c9f390800000000000000
+      internalID: -7783972319408178917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a66f554a89b55060800000000000000
+      internalID: 6941658404181993127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edfcfb40b666c580800000000000000
+      internalID: -8807239113901277719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 451
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee48b14ef050710800000000000000
+      internalID: 1658749510144552640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b168323794780ba0800000000000000
+      internalID: -6122515500678749774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd3bf498df3a48c0800000000000000
+      internalID: -4014325918402396714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8ffac94539a4870800000000000000
+      internalID: 8667902424443254964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c096a086045ec0800000000000000
+      internalID: -3579228654232616341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfa50b15e4077700800000000000000
+      internalID: 537904062541443013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44ab84decabfb00800000000000000
+      internalID: 863473888698975414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf7ec951ed9dead0800000000000000
+      internalID: -2671305412760928314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed46623dedb9fa80800000000000000
+      internalID: -8432500000824078880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c873ad0b45e4c0800000000000000
+      internalID: -4258915350659676116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d885e7c6909f7360800000000000000
+      internalID: 7169608109070321878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2910ee99b4a75c00800000000000000
+      internalID: 889360568570353967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6716c384aef95a0f0800000000000000
+      internalID: -1106302304866508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8fc8f3303dab720800000000000000
+      internalID: 2862832524051937453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c842eddd2e92d5c20800000000000000
+      internalID: 3196757364864590988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 375
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f027f5ad314dc060800000000000000
+      internalID: 6975303130900013297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504298e628b7424a0800000000000000
+      internalID: -6619029752197340155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d4d3cbf22b1730800000000000000
+      internalID: 3970805961174866262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd53f0531e125f0800000000000000
+      internalID: -783097242181051429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c211514033309eb0800000000000000
+      internalID: -4715212527509630268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3515955b85f9bebb0800000000000000
+      internalID: -4905652165741555373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 338
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf54962d8f6c1bb10800000000000000
+      internalID: 1995594881886143996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1829586b2b3b760800000000000000
+      internalID: 7472512703732548060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a450570eab5490800000000000000
+      internalID: -7756414586779819253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded41b9846c5b3c40800000000000000
+      internalID: 5493085757385035245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa168886e11e670800000000000000
+      internalID: 8566161400548929378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c452a35048ec4f0800000000000000
+      internalID: -806562125267514361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7f1122baf6b5b0800000000000000
+      internalID: -5352815464116421470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 280
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b1c3edb213d0140800000000000000
+      internalID: 4687456851644390207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116becbb77af32e0800000000000000
+      internalID: -2143810747712708331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24e3263790d5180800000000000000
+      internalID: -9125126878808620383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10de257fbf9c3230800000000000000
+      internalID: 3619943845152608287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 264
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120df8a2d479765b0800000000000000
+      internalID: -5375161272561053663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad8a21907840a50800000000000000
+      internalID: 6486457836357868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f895026de20c81c60800000000000000
+      internalID: 7789186862930745743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a0a65df8179680800000000000000
+      internalID: -8748496274784737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67555589c4a409010800000000000000
+      internalID: 1193535594086880630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3c42bce6b9a7e0800000000000000
+      internalID: -1753669452164219610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8978a95747f13240800000000000000
+      internalID: 4769865366181017997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8a806dd77c81020800000000000000
+      internalID: 2312817751930480861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2a6140885652cf0800000000000000
+      internalID: -277704167154867516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb5e74d61e23b840800000000000000
+      internalID: 5238581467151227879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c35094f90934c20800000000000000
+      internalID: 3189551974907722877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 214
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e63724ecb82ac2e0800000000000000
+      internalID: -2104825084095547677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 195
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf846ed44d1c4110800000000000000
+      internalID: 1246403378500898762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f030208fbbcbea60800000000000000
+      internalID: 7704475610896150771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd44214e18f8550800000000000000
+      internalID: 6165289231452527839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64fa30072f80600800000000000000
+      internalID: 434863926953330378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a09ac04c13f479f0800000000000000
+      internalID: -471484758295408476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86676f39a4c2e0470800000000000000
+      internalID: 8362670256895194728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343aa0ede1e0df630800000000000000
+      internalID: 3962338772892951363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_83
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 158
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc824719822d88c0800000000000000
+      internalID: -3995499322211660545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab61c05b6bf8540a0800000000000000
+      internalID: -6897949239363758406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be3ca834f94d8120800000000000000
+      internalID: 2417669888239484594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ac4a512faaa7d0800000000000000
+      internalID: -2906318051730479081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0a6f997bafea10800000000000000
+      internalID: 1940958503273893194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ecbae2bc6bc9800800000000000000
+      internalID: 620571832447913479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df5b56cd9a9d650800000000000000
+      internalID: 6258219921272339773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a7bba51f83c3b20800000000000000
+      internalID: 3115427651494050335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f931d3bbc02077720800000000000000
+      internalID: 2843743943411962783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367085cfea9ed8b0800000000000000
+      internalID: -5125488971299654082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9f9bd38a2494f0800000000000000
+      internalID: -822986086088204455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1974481d2f0c6820800000000000000
+      internalID: 2912719745356953883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688491068350d090800000000000000
+      internalID: -8011811902074877852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22757dad521976f60800000000000000
+      internalID: 8027544452582561570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_97
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aaeed426229d7f0800000000000000
+      internalID: -587400470785512843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e909e6b521ed80800000000000000
+      internalID: -8223249977077799961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c765960db1945330800000000000000
+      internalID: 3698741435023321028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e19129e3df8d890800000000000000
+      internalID: -7432912739794084296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973fc968d35fbb750800000000000000
+      internalID: 6321916146544866169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2e9a3d028a1d4a0800000000000000
+      internalID: -6570285522413296972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840dd30faa87fe660800000000000000
+      internalID: 7417279786872852552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a1b24655f50410800000000000000
+      internalID: 1442829006477043236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb47956f4ec7860800000000000000
+      internalID: 7529144423770537506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b50653665271530800000000000000
+      internalID: 3825567529386924876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e69b08101c11bcb0800000000000000
+      internalID: -4850064468252846359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e94090db8a6cc60800000000000000
+      internalID: 7838137731338509978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d4acc035bb2f050800000000000000
+      internalID: 5832930432769477944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e80f1ccb90f5d0800000000000000
+      internalID: -3030751248224032524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf99bd573fa025c0800000000000000
+      internalID: -4242198196652499020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_112
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e38a3661c0d5e780800000000000000
+      internalID: -8654281579860163613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41610673436c600800000000000000
+      internalID: 488135022056182965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d789603816e7c2830800000000000000
+      internalID: 4047749122374408317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f42efdf7a7ba6b0800000000000000
+      internalID: -5283995048153559240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b0bb2ccf6264d50800000000000000
+      internalID: 6721102360937696154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9babc3cfdd863b0800000000000000
+      internalID: -5518917267922175512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b0fbf723250140800000000000000
+      internalID: 4685189641986421789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_119
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea4454e03c243e0800000000000000
+      internalID: -2070878412577919468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_120
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90ddc35bcdba1ed0800000000000000
+      internalID: -2442431166913064806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d257496ca083630800000000000000
+      internalID: 3906884524754414896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c1dba4b92960a0800000000000000
+      internalID: -6887928299132960205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_123
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d530ea4eded4e0800000000000000
+      internalID: -1954880775061645917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c9cda7a128c5d0800000000000000
+      internalID: -3042144544229834032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae8931901c4e590800000000000000
+      internalID: -7645774022640604555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c5d1875ade800f0800000000000000
+      internalID: -1150408409852584920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb76e01e40c18920800000000000000
+      internalID: 2990883069074242542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42992e0f6948dd3c0800000000000000
+      internalID: -4333161482639206108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b7b60e5d336a10800000000000000
+      internalID: 1901430941729404740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d2a558f760b250800000000000000
+      internalID: 5958376623297450359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5baacda218835ae0800000000000000
+      internalID: -1561755031960900770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce7761d76215dd0800000000000000
+      internalID: -2499173999524189004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cf1dc0d96abca60800000000000000
+      internalID: 7695427581747788914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_134
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28cc3516f620020800000000000000
+      internalID: 2306528422975537833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_135
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e30dc10454946800800000000000000
+      internalID: 604771338502865897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_136
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1603589ae4389d0800000000000000
+      internalID: -2773286455539113487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbacb1d59381df10800000000000000
+      internalID: 2292758364800461816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1549cf286b16ec0800000000000000
+      internalID: -3575375955455880777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952be1602ba8d8f20800000000000000
+      internalID: 3426547388710302297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_140
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53b12b962ac5b20800000000000000
+      internalID: 3124550816331675056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4da654344e56730800000000000000
+      internalID: 3991847622312383721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_142
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f0906c65bf82f0800000000000000
+      internalID: -968355917780158441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c916b91a190a0850800000000000000
+      internalID: 6343893032809929160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_144
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1cfbb8135f21590800000000000000
+      internalID: -7704826419330694751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_145
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e32a550de2d730800000000000000
+      internalID: 4022538024438195677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602cf5d93731e1c0800000000000000
+      internalID: -4476235833086828435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73225a1cb503374b0800000000000000
+      internalID: -5443954353911815625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_148
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f203ff6dc4756e0800000000000000
+      internalID: -1848924635724239082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe699f8cfa8518b0800000000000000
+      internalID: -5182082978874298626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8574822b696dc150800000000000000
+      internalID: 5894483396159370638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Yellow_01-512x512_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f89b859527dfa0f0800000000000000
+      internalID: -1103426827259766536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sun_Yellow_01-512x512_0: 6262894372700552141
+      Sun_Yellow_01-512x512_1: -7872472318350049072
+      Sun_Yellow_01-512x512_10: 5261447245038197351
+      Sun_Yellow_01-512x512_100: -7432912739794084296
+      Sun_Yellow_01-512x512_101: 6321916146544866169
+      Sun_Yellow_01-512x512_102: -6570285522413296972
+      Sun_Yellow_01-512x512_103: 7417279786872852552
+      Sun_Yellow_01-512x512_104: 1442829006477043236
+      Sun_Yellow_01-512x512_105: 7529144423770537506
+      Sun_Yellow_01-512x512_106: 3825567529386924876
+      Sun_Yellow_01-512x512_107: -4850064468252846359
+      Sun_Yellow_01-512x512_108: 7838137731338509978
+      Sun_Yellow_01-512x512_109: 5832930432769477944
+      Sun_Yellow_01-512x512_11: -4549455958086139655
+      Sun_Yellow_01-512x512_110: -3030751248224032524
+      Sun_Yellow_01-512x512_111: -4242198196652499020
+      Sun_Yellow_01-512x512_112: -8654281579860163613
+      Sun_Yellow_01-512x512_113: 488135022056182965
+      Sun_Yellow_01-512x512_114: 4047749122374408317
+      Sun_Yellow_01-512x512_115: -5283995048153559240
+      Sun_Yellow_01-512x512_116: 6721102360937696154
+      Sun_Yellow_01-512x512_117: -5518917267922175512
+      Sun_Yellow_01-512x512_118: 4685189641986421789
+      Sun_Yellow_01-512x512_119: -2070878412577919468
+      Sun_Yellow_01-512x512_12: -5646241411365271126
+      Sun_Yellow_01-512x512_120: -2442431166913064806
+      Sun_Yellow_01-512x512_121: 3906884524754414896
+      Sun_Yellow_01-512x512_122: -6887928299132960205
+      Sun_Yellow_01-512x512_123: -1954880775061645917
+      Sun_Yellow_01-512x512_124: -3042144544229834032
+      Sun_Yellow_01-512x512_125: -7645774022640604555
+      Sun_Yellow_01-512x512_126: -1150408409852584920
+      Sun_Yellow_01-512x512_127: 2990883069074242542
+      Sun_Yellow_01-512x512_128: -4333161482639206108
+      Sun_Yellow_01-512x512_129: 1901430941729404740
+      Sun_Yellow_01-512x512_13: 2864387106541090909
+      Sun_Yellow_01-512x512_130: 5958376623297450359
+      Sun_Yellow_01-512x512_131: -1561755031960900770
+      Sun_Yellow_01-512x512_132: -2499173999524189004
+      Sun_Yellow_01-512x512_133: 7695427581747788914
+      Sun_Yellow_01-512x512_134: 2306528422975537833
+      Sun_Yellow_01-512x512_135: 604771338502865897
+      Sun_Yellow_01-512x512_136: -2773286455539113487
+      Sun_Yellow_01-512x512_137: 2292758364800461816
+      Sun_Yellow_01-512x512_138: -3575375955455880777
+      Sun_Yellow_01-512x512_139: 3426547388710302297
+      Sun_Yellow_01-512x512_14: -4137768666847374931
+      Sun_Yellow_01-512x512_140: 3124550816331675056
+      Sun_Yellow_01-512x512_141: 3991847622312383721
+      Sun_Yellow_01-512x512_142: -968355917780158441
+      Sun_Yellow_01-512x512_143: 6343893032809929160
+      Sun_Yellow_01-512x512_144: -7704826419330694751
+      Sun_Yellow_01-512x512_145: 4022538024438195677
+      Sun_Yellow_01-512x512_146: -4476235833086828435
+      Sun_Yellow_01-512x512_147: -5443954353911815625
+      Sun_Yellow_01-512x512_148: -1848924635724239082
+      Sun_Yellow_01-512x512_149: -5182082978874298626
+      Sun_Yellow_01-512x512_15: -2907840701972383981
+      Sun_Yellow_01-512x512_150: 5894483396159370638
+      Sun_Yellow_01-512x512_151: -1103426827259766536
+      Sun_Yellow_01-512x512_16: -1716125627095701981
+      Sun_Yellow_01-512x512_17: 7005833183228493196
+      Sun_Yellow_01-512x512_18: -4802250448769063500
+      Sun_Yellow_01-512x512_19: 7956909033565589481
+      Sun_Yellow_01-512x512_2: 3265168306143875568
+      Sun_Yellow_01-512x512_20: -7001989550627507148
+      Sun_Yellow_01-512x512_21: 5077694946824744809
+      Sun_Yellow_01-512x512_22: 4937515865512612145
+      Sun_Yellow_01-512x512_23: -8929919748046668227
+      Sun_Yellow_01-512x512_24: 9036149225194085549
+      Sun_Yellow_01-512x512_25: -5514938092386989266
+      Sun_Yellow_01-512x512_26: -1281121086113097950
+      Sun_Yellow_01-512x512_27: -3038870599550986084
+      Sun_Yellow_01-512x512_28: -6776467127164921822
+      Sun_Yellow_01-512x512_29: -7783972319408178917
+      Sun_Yellow_01-512x512_3: 3499025429202156498
+      Sun_Yellow_01-512x512_30: 6941658404181993127
+      Sun_Yellow_01-512x512_31: -8807239113901277719
+      Sun_Yellow_01-512x512_32: 1658749510144552640
+      Sun_Yellow_01-512x512_33: -6122515500678749774
+      Sun_Yellow_01-512x512_34: -4014325918402396714
+      Sun_Yellow_01-512x512_35: 8667902424443254964
+      Sun_Yellow_01-512x512_36: -3579228654232616341
+      Sun_Yellow_01-512x512_37: 537904062541443013
+      Sun_Yellow_01-512x512_38: 863473888698975414
+      Sun_Yellow_01-512x512_39: -2671305412760928314
+      Sun_Yellow_01-512x512_4: -4729920568568161191
+      Sun_Yellow_01-512x512_40: -8432500000824078880
+      Sun_Yellow_01-512x512_41: -4258915350659676116
+      Sun_Yellow_01-512x512_42: 7169608109070321878
+      Sun_Yellow_01-512x512_43: 889360568570353967
+      Sun_Yellow_01-512x512_44: -1106302304866508426
+      Sun_Yellow_01-512x512_45: 2862832524051937453
+      Sun_Yellow_01-512x512_46: 3196757364864590988
+      Sun_Yellow_01-512x512_47: 6975303130900013297
+      Sun_Yellow_01-512x512_48: -6619029752197340155
+      Sun_Yellow_01-512x512_49: 3970805961174866262
+      Sun_Yellow_01-512x512_5: 2990862644147246711
+      Sun_Yellow_01-512x512_50: -783097242181051429
+      Sun_Yellow_01-512x512_51: -4715212527509630268
+      Sun_Yellow_01-512x512_52: -4905652165741555373
+      Sun_Yellow_01-512x512_53: 1995594881886143996
+      Sun_Yellow_01-512x512_54: 7472512703732548060
+      Sun_Yellow_01-512x512_55: -7756414586779819253
+      Sun_Yellow_01-512x512_56: 5493085757385035245
+      Sun_Yellow_01-512x512_57: 8566161400548929378
+      Sun_Yellow_01-512x512_58: -806562125267514361
+      Sun_Yellow_01-512x512_59: -5352815464116421470
+      Sun_Yellow_01-512x512_6: -4478385511899232500
+      Sun_Yellow_01-512x512_60: 4687456851644390207
+      Sun_Yellow_01-512x512_61: -2143810747712708331
+      Sun_Yellow_01-512x512_62: -9125126878808620383
+      Sun_Yellow_01-512x512_63: 3619943845152608287
+      Sun_Yellow_01-512x512_64: -5375161272561053663
+      Sun_Yellow_01-512x512_65: 6486457836357868241
+      Sun_Yellow_01-512x512_66: 7789186862930745743
+      Sun_Yellow_01-512x512_67: -8748496274784737373
+      Sun_Yellow_01-512x512_68: 1193535594086880630
+      Sun_Yellow_01-512x512_69: -1753669452164219610
+      Sun_Yellow_01-512x512_7: 2368405275182294500
+      Sun_Yellow_01-512x512_70: 4769865366181017997
+      Sun_Yellow_01-512x512_71: 2312817751930480861
+      Sun_Yellow_01-512x512_72: -277704167154867516
+      Sun_Yellow_01-512x512_73: 5238581467151227879
+      Sun_Yellow_01-512x512_74: 3189551974907722877
+      Sun_Yellow_01-512x512_75: -2104825084095547677
+      Sun_Yellow_01-512x512_76: 1246403378500898762
+      Sun_Yellow_01-512x512_77: 7704475610896150771
+      Sun_Yellow_01-512x512_78: 6165289231452527839
+      Sun_Yellow_01-512x512_79: 434863926953330378
+      Sun_Yellow_01-512x512_8: -2403471441215780532
+      Sun_Yellow_01-512x512_80: -471484758295408476
+      Sun_Yellow_01-512x512_81: 8362670256895194728
+      Sun_Yellow_01-512x512_82: 3962338772892951363
+      Sun_Yellow_01-512x512_83: -3995499322211660545
+      Sun_Yellow_01-512x512_84: -6897949239363758406
+      Sun_Yellow_01-512x512_85: 2417669888239484594
+      Sun_Yellow_01-512x512_86: -2906318051730479081
+      Sun_Yellow_01-512x512_87: 1940958503273893194
+      Sun_Yellow_01-512x512_88: 620571832447913479
+      Sun_Yellow_01-512x512_89: 6258219921272339773
+      Sun_Yellow_01-512x512_9: 9014346781486096623
+      Sun_Yellow_01-512x512_90: 3115427651494050335
+      Sun_Yellow_01-512x512_91: 2843743943411962783
+      Sun_Yellow_01-512x512_92: -5125488971299654082
+      Sun_Yellow_01-512x512_93: -822986086088204455
+      Sun_Yellow_01-512x512_94: 2912719745356953883
+      Sun_Yellow_01-512x512_95: -8011811902074877852
+      Sun_Yellow_01-512x512_96: 8027544452582561570
+      Sun_Yellow_01-512x512_97: -587400470785512843
+      Sun_Yellow_01-512x512_98: -8223249977077799961
+      Sun_Yellow_01-512x512_99: 3698741435023321028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

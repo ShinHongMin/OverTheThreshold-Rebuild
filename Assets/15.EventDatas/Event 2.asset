@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f9d99dc879e5db4d9427881091d2763, type: 3}
+  m_Name: Event 2
+  m_EditorClassIdentifier: 
+  eventTitle: "\uC0DD\uC874\uC790\uC758 \uBB34\uC804"
+  eventImage: {fileID: -1613358063394644092, guid: 5d45f92a8dbf1454e87e4a0a1daf5757, type: 3}
+  description: "\"\uBBF8\uC138\uD55C \uAD6C\uC870 \uC2E0\uD638\uB97C \uD3EC\uCC29\uD569\uB2C8\uB2E4.\uADFC\uCC98\uC5D0
+    \uC0DD\uC874\uC790\uAC00 \uC788\uB294 \uAC83 \uAC19\uC9C0\uB9CC,'ECHO'\uAC00
+    \uB9CC\uB4E4\uC5B4\uB0B8 \uD658\uCCAD\uC77C \uC218\uB3C4, \uD568\uC815\uC77C
+    \uC218\uB3C4 \uC788\uC2B5\uB2C8\uB2E4.\" "
+  choices:
+  - choiceText: "\uC0DD\uC874\uC790\uB97C \uC218\uC0C9\uD55C\uB2E4."
+    resultText: "(50% \uD655\uB960): \uC6B4 \uC88B\uAC8C \uB2E4\uB978 \uC0DD\uC874\uC790\uB97C
+      \uB9CC\uB0AC\uC2B5\uB2C8\uB2E4.\"(\uBAA8\uB4E0 \uD30C\uD2F0\uC6D0 HP 30% \uD68C\uBCF5)
+      \n"
+    successRate: 50
+    effects:
+    - effectType: 1
+      effectValue: 30
+      targetStat: 0
+      targetPassives: []
+      enemyEncounter: {fileID: 0}
+    failureText: "(50% \uD655\uB960): \uD568\uC815\uC774\uC5C8\uC2B5\uB2C8\uB2E4!(\uC989\uC2DC
+      '\uC815\uC608 \uBAAC\uC2A4\uD130'\uC640 \uC804\uD22C \uC2DC\uC791)"
+    failureEffects:
+    - effectType: 8
+      effectValue: 0
+      targetStat: 0
+      targetPassives: []
+      enemyEncounter: {fileID: 11400000, guid: b9ecc2e8ce53740479766893a604d767, type: 2}
+  - choiceText: "\uBB34\uC2DC\uD558\uACE0 \uACBD\uB85C\uB97C \uC720\uC9C0\uD55C\uB2E4."
+    resultText: "\uC0DD\uC874\uC758 \uC2DC\uB300\uC5D0 \uAC10\uC218\uC131\uC740 \uC0AC\uCE58\uC785\uB2C8\uB2E4.
+      (\uBAA8\uB4E0 \uD30C\uD2F0\uC6D0 ER \uC218\uCE58 +5)"
+    successRate: 100
+    effects:
+    - effectType: 3
+      effectValue: 5
+      targetStat: 0
+      targetPassives: []
+      enemyEncounter: {fileID: 0}
+    failureText: 
+    failureEffects: []

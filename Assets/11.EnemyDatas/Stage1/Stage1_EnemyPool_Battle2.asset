@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 159bdbcb64924cf4ca11bfe351601af8, type: 3}
+  m_Name: Stage1_EnemyPool_Battle2
+  m_EditorClassIdentifier: 
+  encounterName: "\uC77C\uBC18\uC804\uD22C2"
+  enemyPrefabs:
+  - {fileID: 74374315197566357, guid: d8063354802e9174e8ce604d01b2c06e, type: 3}
+  - {fileID: 74374315197566357, guid: 429f710ada547ca4fadc4b7f8e97e3c7, type: 3}
+  - {fileID: 74374315197566357, guid: d8063354802e9174e8ce604d01b2c06e, type: 3}
+  isBoss: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e0afbe851caf4f9e18a2e3d264d1d, type: 3}
+  m_Name: Seiren_EnhancedOPSkill
+  m_EditorClassIdentifier: 
+  skillName: "\uACFC\uBD80\uD654-\uC885\uB9D0\uC758 \uB178\uB798 "
+  description: "[X-\uACF5\uBA85]\uC0C1\uD0DC\uC77C\uB54C\uB9CC \uC0AC\uC6A9 \uAC00\uB2A5\uD558\uBA70,
+    OP\uB97C 6\uC18C\uBAA8\uD558\uACE0 \uB2E8\uC77C\uC801\uC5D0\uAC8C ATK 600%\uC758
+    \uD53C\uD574\uB97C \uAC00\uD55C\uB2E4"
+  skillIcon: {fileID: -1038798233659111117, guid: 86d9e3d7dc0c3c5439f1a65103d5bea9, type: 3}
+  type: 2
+  buffToApply: []
+  attackType: 1
+  targetType: 0
+  skillMultiplier: 6
+  spCost: 0
+  opCost: 6
+  erGain: 0
+  erReduce: 0
+  animationTime: 1
+  preDelay: 0.5
+  postDelay: 0.8
+  totalDuration: 2
+  effectPrefab: {fileID: 2865992315855051373, guid: 04927660f9731e84997993e74a4c415d, type: 3}
+  hitEffectPrefab: {fileID: 707561809568019867, guid: d69ba3437ae5c964cb83848cf2c17d57, type: 3}
+  useShake: 1
+  shakeIntensity: 0.5
+  shakeDuration: 0.2
+  cameraZoomAmount: 0.8
+  skillSoundEffect: {fileID: 0}

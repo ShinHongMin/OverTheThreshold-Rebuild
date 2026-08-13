@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 1967e27646ca7db40a9d96444acc7ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5170055049002973094
+    second: OPSKill (063)_0
+  - first:
+      213: -8658825625612016843
+    second: OPSKill (063)_1
+  - first:
+      213: -5001864418589229552
+    second: OPSKill (063)_2
+  - first:
+      213: 6490118635416512193
+    second: OPSKill (063)_3
+  - first:
+      213: 1550629815071709703
+    second: OPSKill (063)_4
+  - first:
+      213: -621715229137837996
+    second: OPSKill (063)_5
+  - first:
+      213: -8942334498993878311
+    second: OPSKill (063)_6
+  - first:
+      213: -4729292317402411633
+    second: OPSKill (063)_7
+  - first:
+      213: -1719019369731344039
+    second: OPSKill (063)_8
+  - first:
+      213: 2598217352642745606
+    second: OPSKill (063)_9
+  - first:
+      213: -7149024390148126333
+    second: OPSKill (063)_10
+  - first:
+      213: 3037545204647576004
+    second: OPSKill (063)_11
+  - first:
+      213: -6364144802882042764
+    second: OPSKill (063)_12
+  - first:
+      213: 2985853936719794547
+    second: OPSKill (063)_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.2}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OPSKill (063)_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 103
+        width: 615
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a77909cca9bfb740800000000000000
+      internalID: 5170055049002973094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 519
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533a85d48fba5d780800000000000000
+      internalID: -8658825625612016843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 531
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb253ffcec59ab0800000000000000
+      internalID: -5001864418589229552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 519
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e4264388811a50800000000000000
+      internalID: 6490118635416512193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_4
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 500
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9a79e991f48510800000000000000
+      internalID: 1550629815071709703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_5
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 448
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450e9c70b493f57f0800000000000000
+      internalID: -621715229137837996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 502
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dacfb4d62276e380800000000000000
+      internalID: -8942334498993878311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 493
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dce36b1bd2e5eb0800000000000000
+      internalID: -4729292317402411633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_8
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 469
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b521bdf0d428e0800000000000000
+      internalID: -1719019369731344039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 449
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605d6819ae8be0420800000000000000
+      internalID: 2598217352642745606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_10
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 449
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3890e9eb13099cc90800000000000000
+      internalID: -7149024390148126333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 486
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1c5302547872a20800000000000000
+      internalID: 3037545204647576004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_12
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 439
+        width: 9
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474411d35040ea7a0800000000000000
+      internalID: -6364144802882042764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (063)_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 448
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719261f552ef6920800000000000000
+      internalID: 2985853936719794547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OPSKill (063)_0: 5170055049002973094
+      OPSKill (063)_1: -8658825625612016843
+      OPSKill (063)_10: -7149024390148126333
+      OPSKill (063)_11: 3037545204647576004
+      OPSKill (063)_12: -6364144802882042764
+      OPSKill (063)_13: 2985853936719794547
+      OPSKill (063)_2: -5001864418589229552
+      OPSKill (063)_3: 6490118635416512193
+      OPSKill (063)_4: 1550629815071709703
+      OPSKill (063)_5: -621715229137837996
+      OPSKill (063)_6: -8942334498993878311
+      OPSKill (063)_7: -4729292317402411633
+      OPSKill (063)_8: -1719019369731344039
+      OPSKill (063)_9: 2598217352642745606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

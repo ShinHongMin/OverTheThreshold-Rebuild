@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 28984cc35a107e04084ccfdbecdeec78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2145014279165478808
+    second: Sun_Blue_01-512x512_0
+  - first:
+      213: -9155055290846143293
+    second: Sun_Blue_01-512x512_1
+  - first:
+      213: -6547504870469295090
+    second: Sun_Blue_01-512x512_2
+  - first:
+      213: 842910789381087919
+    second: Sun_Blue_01-512x512_3
+  - first:
+      213: 8434186920988326520
+    second: Sun_Blue_01-512x512_4
+  - first:
+      213: 6497817361566479336
+    second: Sun_Blue_01-512x512_5
+  - first:
+      213: -2359158463348945268
+    second: Sun_Blue_01-512x512_6
+  - first:
+      213: -7378734368000688383
+    second: Sun_Blue_01-512x512_7
+  - first:
+      213: -3703486780666456452
+    second: Sun_Blue_01-512x512_8
+  - first:
+      213: 4903281842950446447
+    second: Sun_Blue_01-512x512_9
+  - first:
+      213: -8681726889741699405
+    second: Sun_Blue_01-512x512_10
+  - first:
+      213: 5467425549356430730
+    second: Sun_Blue_01-512x512_11
+  - first:
+      213: 95705979963058762
+    second: Sun_Blue_01-512x512_12
+  - first:
+      213: 6585640815483512900
+    second: Sun_Blue_01-512x512_13
+  - first:
+      213: -6589787791593700738
+    second: Sun_Blue_01-512x512_14
+  - first:
+      213: 4397217881940444274
+    second: Sun_Blue_01-512x512_15
+  - first:
+      213: -5691495299810161098
+    second: Sun_Blue_01-512x512_16
+  - first:
+      213: 5037859816188359567
+    second: Sun_Blue_01-512x512_17
+  - first:
+      213: 358531103728071253
+    second: Sun_Blue_01-512x512_18
+  - first:
+      213: -8795330970352763917
+    second: Sun_Blue_01-512x512_19
+  - first:
+      213: 7317172136586549238
+    second: Sun_Blue_01-512x512_20
+  - first:
+      213: -4947956262645682859
+    second: Sun_Blue_01-512x512_21
+  - first:
+      213: 6036179556720553779
+    second: Sun_Blue_01-512x512_22
+  - first:
+      213: -8409669751120903267
+    second: Sun_Blue_01-512x512_23
+  - first:
+      213: 4340221482281044218
+    second: Sun_Blue_01-512x512_24
+  - first:
+      213: -1449488727039878698
+    second: Sun_Blue_01-512x512_25
+  - first:
+      213: 1607957772625788424
+    second: Sun_Blue_01-512x512_26
+  - first:
+      213: -9156298279954744051
+    second: Sun_Blue_01-512x512_27
+  - first:
+      213: -1868228092384500813
+    second: Sun_Blue_01-512x512_28
+  - first:
+      213: -2817756738227042893
+    second: Sun_Blue_01-512x512_29
+  - first:
+      213: 5021131951553157460
+    second: Sun_Blue_01-512x512_30
+  - first:
+      213: -7360027219742967676
+    second: Sun_Blue_01-512x512_31
+  - first:
+      213: -9137836080883830800
+    second: Sun_Blue_01-512x512_32
+  - first:
+      213: -387886875242407913
+    second: Sun_Blue_01-512x512_33
+  - first:
+      213: -5264936273504048047
+    second: Sun_Blue_01-512x512_34
+  - first:
+      213: -2324547915226840384
+    second: Sun_Blue_01-512x512_35
+  - first:
+      213: -2335938517788550962
+    second: Sun_Blue_01-512x512_36
+  - first:
+      213: 4648206676136711628
+    second: Sun_Blue_01-512x512_37
+  - first:
+      213: -6188335512688266163
+    second: Sun_Blue_01-512x512_38
+  - first:
+      213: -5490384522421139723
+    second: Sun_Blue_01-512x512_39
+  - first:
+      213: -4765574220855140147
+    second: Sun_Blue_01-512x512_40
+  - first:
+      213: 4313147352779549648
+    second: Sun_Blue_01-512x512_41
+  - first:
+      213: -4008586697772081283
+    second: Sun_Blue_01-512x512_42
+  - first:
+      213: -5890733507892031224
+    second: Sun_Blue_01-512x512_43
+  - first:
+      213: 7288339794588274920
+    second: Sun_Blue_01-512x512_44
+  - first:
+      213: 3301826908776433440
+    second: Sun_Blue_01-512x512_45
+  - first:
+      213: 2904664627011669552
+    second: Sun_Blue_01-512x512_46
+  - first:
+      213: -7773215929842820348
+    second: Sun_Blue_01-512x512_47
+  - first:
+      213: -5159916451291521924
+    second: Sun_Blue_01-512x512_48
+  - first:
+      213: -8834040719151977543
+    second: Sun_Blue_01-512x512_49
+  - first:
+      213: -5190717494377772613
+    second: Sun_Blue_01-512x512_50
+  - first:
+      213: -3013266249398181185
+    second: Sun_Blue_01-512x512_51
+  - first:
+      213: 4730571446992333753
+    second: Sun_Blue_01-512x512_52
+  - first:
+      213: 7468806863919353875
+    second: Sun_Blue_01-512x512_53
+  - first:
+      213: -4248235647815610510
+    second: Sun_Blue_01-512x512_54
+  - first:
+      213: -1929305551194429374
+    second: Sun_Blue_01-512x512_55
+  - first:
+      213: -4538272353096446513
+    second: Sun_Blue_01-512x512_56
+  - first:
+      213: 7619299451149973835
+    second: Sun_Blue_01-512x512_57
+  - first:
+      213: 1272595965195287964
+    second: Sun_Blue_01-512x512_58
+  - first:
+      213: -1348320339471485701
+    second: Sun_Blue_01-512x512_59
+  - first:
+      213: 6477587646004183205
+    second: Sun_Blue_01-512x512_60
+  - first:
+      213: 6247916804077857214
+    second: Sun_Blue_01-512x512_61
+  - first:
+      213: 5862601607823808889
+    second: Sun_Blue_01-512x512_62
+  - first:
+      213: -4104045180941563262
+    second: Sun_Blue_01-512x512_63
+  - first:
+      213: 4823005577003417857
+    second: Sun_Blue_01-512x512_64
+  - first:
+      213: 3503605684352292662
+    second: Sun_Blue_01-512x512_65
+  - first:
+      213: 7917464764195321297
+    second: Sun_Blue_01-512x512_66
+  - first:
+      213: -2942521607752738516
+    second: Sun_Blue_01-512x512_67
+  - first:
+      213: 9165411673977603420
+    second: Sun_Blue_01-512x512_68
+  - first:
+      213: 7300925150813234546
+    second: Sun_Blue_01-512x512_69
+  - first:
+      213: 8699646081953146226
+    second: Sun_Blue_01-512x512_70
+  - first:
+      213: -5152997912086577390
+    second: Sun_Blue_01-512x512_71
+  - first:
+      213: -489944333465803145
+    second: Sun_Blue_01-512x512_72
+  - first:
+      213: -5774652194624293482
+    second: Sun_Blue_01-512x512_73
+  - first:
+      213: -6265043545202140501
+    second: Sun_Blue_01-512x512_74
+  - first:
+      213: -5127371641687960184
+    second: Sun_Blue_01-512x512_75
+  - first:
+      213: -5956412109898030194
+    second: Sun_Blue_01-512x512_76
+  - first:
+      213: 4811469406035614487
+    second: Sun_Blue_01-512x512_77
+  - first:
+      213: 1053022402725279478
+    second: Sun_Blue_01-512x512_78
+  - first:
+      213: 4536350441504119298
+    second: Sun_Blue_01-512x512_79
+  - first:
+      213: -3322634527750706935
+    second: Sun_Blue_01-512x512_80
+  - first:
+      213: 7117275210332066981
+    second: Sun_Blue_01-512x512_81
+  - first:
+      213: 8321997322937949520
+    second: Sun_Blue_01-512x512_82
+  - first:
+      213: -2498532467143032139
+    second: Sun_Blue_01-512x512_83
+  - first:
+      213: -59964845997344996
+    second: Sun_Blue_01-512x512_84
+  - first:
+      213: -3195103396443242134
+    second: Sun_Blue_01-512x512_85
+  - first:
+      213: -6951439438181699641
+    second: Sun_Blue_01-512x512_86
+  - first:
+      213: -3199761281187666747
+    second: Sun_Blue_01-512x512_87
+  - first:
+      213: 3950816931235832621
+    second: Sun_Blue_01-512x512_88
+  - first:
+      213: 4593845496231854445
+    second: Sun_Blue_01-512x512_89
+  - first:
+      213: 9220727276530415712
+    second: Sun_Blue_01-512x512_90
+  - first:
+      213: -3929564258068703722
+    second: Sun_Blue_01-512x512_91
+  - first:
+      213: 6824249057931251866
+    second: Sun_Blue_01-512x512_92
+  - first:
+      213: -3895729771524348461
+    second: Sun_Blue_01-512x512_93
+  - first:
+      213: -6963313637370279525
+    second: Sun_Blue_01-512x512_94
+  - first:
+      213: 4892729619498978229
+    second: Sun_Blue_01-512x512_95
+  - first:
+      213: -5173835388947620527
+    second: Sun_Blue_01-512x512_96
+  - first:
+      213: 7333486539679300634
+    second: Sun_Blue_01-512x512_97
+  - first:
+      213: 4801733093718919102
+    second: Sun_Blue_01-512x512_98
+  - first:
+      213: -6279576962693973334
+    second: Sun_Blue_01-512x512_99
+  - first:
+      213: -6131438512997739844
+    second: Sun_Blue_01-512x512_100
+  - first:
+      213: -3095183760848152677
+    second: Sun_Blue_01-512x512_101
+  - first:
+      213: 9125905345821133614
+    second: Sun_Blue_01-512x512_102
+  - first:
+      213: -3686693432536976870
+    second: Sun_Blue_01-512x512_103
+  - first:
+      213: 7445825126678598586
+    second: Sun_Blue_01-512x512_104
+  - first:
+      213: 5542188239391230970
+    second: Sun_Blue_01-512x512_105
+  - first:
+      213: 5032548241753777778
+    second: Sun_Blue_01-512x512_106
+  - first:
+      213: -8857624765236359192
+    second: Sun_Blue_01-512x512_107
+  - first:
+      213: -7799152326634929245
+    second: Sun_Blue_01-512x512_108
+  - first:
+      213: 7272201222070606171
+    second: Sun_Blue_01-512x512_109
+  - first:
+      213: 4698769077343535593
+    second: Sun_Blue_01-512x512_110
+  - first:
+      213: -191567571751229198
+    second: Sun_Blue_01-512x512_111
+  - first:
+      213: -6649272701065647734
+    second: Sun_Blue_01-512x512_112
+  - first:
+      213: -7920638517950400739
+    second: Sun_Blue_01-512x512_113
+  - first:
+      213: -357482051471993179
+    second: Sun_Blue_01-512x512_114
+  - first:
+      213: 1283486221099836402
+    second: Sun_Blue_01-512x512_115
+  - first:
+      213: -5114020566414901370
+    second: Sun_Blue_01-512x512_116
+  - first:
+      213: 4708369365131098385
+    second: Sun_Blue_01-512x512_117
+  - first:
+      213: -5479715104084962370
+    second: Sun_Blue_01-512x512_118
+  - first:
+      213: -7110578678818033058
+    second: Sun_Blue_01-512x512_119
+  - first:
+      213: 6850423719267637122
+    second: Sun_Blue_01-512x512_120
+  - first:
+      213: -7019239455198950273
+    second: Sun_Blue_01-512x512_121
+  - first:
+      213: 9025137179381307657
+    second: Sun_Blue_01-512x512_122
+  - first:
+      213: 1092722306617806041
+    second: Sun_Blue_01-512x512_123
+  - first:
+      213: -5189310024828480678
+    second: Sun_Blue_01-512x512_124
+  - first:
+      213: -3359878967574253734
+    second: Sun_Blue_01-512x512_125
+  - first:
+      213: -6274190130465683398
+    second: Sun_Blue_01-512x512_126
+  - first:
+      213: 4525998517521769665
+    second: Sun_Blue_01-512x512_127
+  - first:
+      213: -8812616110735835922
+    second: Sun_Blue_01-512x512_128
+  - first:
+      213: -9199350623258170718
+    second: Sun_Blue_01-512x512_129
+  - first:
+      213: -1911952464262594168
+    second: Sun_Blue_01-512x512_130
+  - first:
+      213: -3290248960458447028
+    second: Sun_Blue_01-512x512_131
+  - first:
+      213: 6535222217416495883
+    second: Sun_Blue_01-512x512_132
+  - first:
+      213: 5703519550930902097
+    second: Sun_Blue_01-512x512_133
+  - first:
+      213: -1701656396139291485
+    second: Sun_Blue_01-512x512_134
+  - first:
+      213: -2983934663919612792
+    second: Sun_Blue_01-512x512_135
+  - first:
+      213: 1725297181914259687
+    second: Sun_Blue_01-512x512_136
+  - first:
+      213: 2088012782915414393
+    second: Sun_Blue_01-512x512_137
+  - first:
+      213: 2684298386049976676
+    second: Sun_Blue_01-512x512_138
+  - first:
+      213: 2870564859010639518
+    second: Sun_Blue_01-512x512_139
+  - first:
+      213: 8442037425707039548
+    second: Sun_Blue_01-512x512_140
+  - first:
+      213: -2303153369051956450
+    second: Sun_Blue_01-512x512_141
+  - first:
+      213: -6863944035331332479
+    second: Sun_Blue_01-512x512_142
+  - first:
+      213: 2475795816474450402
+    second: Sun_Blue_01-512x512_143
+  - first:
+      213: -632311137507382223
+    second: Sun_Blue_01-512x512_144
+  - first:
+      213: -8143002464141228729
+    second: Sun_Blue_01-512x512_145
+  - first:
+      213: 2348594082022564285
+    second: Sun_Blue_01-512x512_146
+  - first:
+      213: 4500320774956167121
+    second: Sun_Blue_01-512x512_147
+  - first:
+      213: 6110081618606592159
+    second: Sun_Blue_01-512x512_148
+  - first:
+      213: 6580163498525841604
+    second: Sun_Blue_01-512x512_149
+  - first:
+      213: 5241836911270049081
+    second: Sun_Blue_01-512x512_150
+  - first:
+      213: 6372956669568659985
+    second: Sun_Blue_01-512x512_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868733cb0e06b32e0800000000000000
+      internalID: -2145014279165478808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc1e02f7b5b2f080800000000000000
+      internalID: -9155055290846143293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a98ea2079225a0800000000000000
+      internalID: -6547504870469295090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26762a5ee92bb00800000000000000
+      internalID: 842910789381087919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a31c281504c0570800000000000000
+      internalID: 8434186920988326520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e33983a672ec2a50800000000000000
+      internalID: 6497817361566479336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eca3f70e5924fd0800000000000000
+      internalID: -2359158463348945268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3a5fbf28799990800000000000000
+      internalID: -7378734368000688383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76550815629a9cc0800000000000000
+      internalID: -3703486780666456452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1fa28bd4fb0440800000000000000
+      internalID: 4903281842950446447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b63dfb346f448780800000000000000
+      internalID: -8681726889741699405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f849c19230eb40800000000000000
+      internalID: 5467425549356430730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a249ae414045100800000000000000
+      internalID: 95705979963058762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4486531fd65e46b50800000000000000
+      internalID: 6585640815483512900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e720ad0faee5c84a0800000000000000
+      internalID: -6589787791593700738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 501
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744e0dbd5e060d30800000000000000
+      internalID: 4397217881940444274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e820efd2fb301b0800000000000000
+      internalID: -5691495299810161098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 501
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833f14afc21ae540800000000000000
+      internalID: 5037859816188359567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f3a6a322c9f400800000000000000
+      internalID: 358531103728071253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb1260515b0f580800000000000000
+      internalID: -8795330970352763917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 500
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f790a94a41db8560800000000000000
+      internalID: 7317172136586549238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55da5d89ef3555bb0800000000000000
+      internalID: -4947956262645682859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fadc66351d4c350800000000000000
+      internalID: 6036179556720553779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 502
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93471eeae9da4b80800000000000000
+      internalID: -8409669751120903267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af881e151709b3c30800000000000000
+      internalID: 4340221482281044218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9dad6bea162ebe0800000000000000
+      internalID: -1449488727039878698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 484
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e303b231d905610800000000000000
+      internalID: 1607957772625788424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df6cdf93b4ee080800000000000000
+      internalID: -9156298279954744051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 482
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32402c278b216e0800000000000000
+      internalID: -1868228092384500813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 476
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5838afc2155e8d0800000000000000
+      internalID: -2817756738227042893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45990b628e4aea540800000000000000
+      internalID: 5021131951553157460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 470
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b30e1d3eebd990800000000000000
+      internalID: -7360027219742967676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_32
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 451
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffeb2faf72ef2180800000000000000
+      internalID: -9137836080883830800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d32c21f2fd9af0800000000000000
+      internalID: -387886875242407913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce8b4aa503fe6b0800000000000000
+      internalID: -5264936273504048047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 426
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28781bcfb8dbfd0800000000000000
+      internalID: -2324547915226840384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec89f0e5b44159fd0800000000000000
+      internalID: -2335938517788550962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_37
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55abd385fb18040800000000000000
+      internalID: 4648206676136711628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f74f63ad9e1aa0800000000000000
+      internalID: -6188335512688266163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 414
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f609ccbd5c3ec3b0800000000000000
+      internalID: -5490384522421139723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ab27ce774dddb0800000000000000
+      internalID: -4765574220855140147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db67525aa06bdb30800000000000000
+      internalID: 4313147352779549648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f50f303a3ae58c0800000000000000
+      internalID: -4008586697772081283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801da93c519ef3ea0800000000000000
+      internalID: -5890733507892031224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e017ca8d62652560800000000000000
+      internalID: 7288339794588274920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0270277641272dd20800000000000000
+      internalID: 3301826908776433440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 374
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e4ca4b6117f4820800000000000000
+      internalID: 2904664627011669552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 375
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9f4bcb4dff1490800000000000000
+      internalID: -7773215929842820348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1312735b4468b0800000000000000
+      internalID: -5159916451291521924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb2c9b45ce276580800000000000000
+      internalID: -8834040719151977543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90532c0fdd6f7b0800000000000000
+      internalID: -5190717494377772613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a2f6af4abe26d0800000000000000
+      internalID: -3013266249398181185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 331
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb659adaad56a140800000000000000
+      internalID: 4730571446992333753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 338
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31099e3754886a760800000000000000
+      internalID: 7468806863919353875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8cc9bf2c3b05c0800000000000000
+      internalID: -4248235647815610510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248edd5b2dab935e0800000000000000
+      internalID: -1929305551194429374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdc5b3f651d401c0800000000000000
+      internalID: -4538272353096446513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497f176b703db960800000000000000
+      internalID: 7619299451149973835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_58
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d7f00b94b29a110800000000000000
+      internalID: 1272595965195287964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43e528bcdc94de0800000000000000
+      internalID: -1348320339471485701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 280
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0c981f4a305e950800000000000000
+      internalID: 6477587646004183205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9214dfa3f05b650800000000000000
+      internalID: 6247916804077857214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979d8f5d9152c5150800000000000000
+      internalID: 5862601607823808889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a03dfe6a08b07c0800000000000000
+      internalID: -4104045180941563262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 264
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1014407d402cee240800000000000000
+      internalID: 4823005577003417857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379bd89ece4f9030800000000000000
+      internalID: 3503605684352292662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 254
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5b887214c70ed60800000000000000
+      internalID: 7917464764195321297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c299cf910301a27d0800000000000000
+      internalID: -2942521607752738516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5547a76b55123f70800000000000000
+      internalID: 9165411673977603420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27520f12eb8125560800000000000000
+      internalID: 7300925150813234546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275af62d40a5bb870800000000000000
+      internalID: 8699646081953146226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fffb163bfdc78b0800000000000000
+      internalID: -5152997912086577390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7762e0c793e5339f0800000000000000
+      internalID: -489944333465803145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 220
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953df5ac605cdfa0800000000000000
+      internalID: -5774652194624293482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa5fd9d6181e09a0800000000000000
+      internalID: -6265043545202140501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 214
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88517c968aae7d8b0800000000000000
+      internalID: -5127371641687960184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_76
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 195
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8361b59eb2965da0800000000000000
+      internalID: -5956412109898030194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b996abee5c5c240800000000000000
+      internalID: 4811469406035614487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f7fecb461d9e00800000000000000
+      internalID: 1053022402725279478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a1a8221ba54fe30800000000000000
+      internalID: 4536350441504119298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a8f64081a3e1d0800000000000000
+      internalID: -3322634527750706935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a459884814a5c260800000000000000
+      internalID: 7117275210332066981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd77f297cad7370800000000000000
+      internalID: 8321997322937949520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_83
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 158
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c82c75fd635dd0800000000000000
+      internalID: -2498532467143032139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17315f4a46fa2ff0800000000000000
+      internalID: -59964845997344996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 149
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614b5aa366b8a3d0800000000000000
+      internalID: -3195103396443242134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfe98949a6878f90800000000000000
+      internalID: -6951439438181699641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4a2cc511a2893d0800000000000000
+      internalID: -3199761281187666747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2329ee011f14d630800000000000000
+      internalID: 3950816931235832621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d618debb32e90cf30800000000000000
+      internalID: 4593845496231854445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b950ca9a96ff70800000000000000
+      internalID: 9220727276530415712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165eb380226779c0800000000000000
+      internalID: -3929564258068703722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9059cc9c5a94be50800000000000000
+      internalID: 6824249057931251866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a06bc9669fe9c0800000000000000
+      internalID: -3895729771524348461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9949e8d3275d5f90800000000000000
+      internalID: -6963313637370279525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 92
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc4488aa776e340800000000000000
+      internalID: 4892729619498978229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9e6b3028d238b0800000000000000
+      internalID: -5173835388947620527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_97
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c71b24727c5c560800000000000000
+      internalID: 7333486539679300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 71
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb78a5ddece23a240800000000000000
+      internalID: 4801733093718919102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa36e6e5067ad8a0800000000000000
+      internalID: -6279576962693973334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2de9e7821c8eaa0800000000000000
+      internalID: -6131438512997739844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97961cb4c2bb05d0800000000000000
+      internalID: -3095183760848152677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc1879f8ab5ae70800000000000000
+      internalID: 9125905345821133614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a123ed52bdb36dcc0800000000000000
+      internalID: -3686693432536976870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31b57c082e45760800000000000000
+      internalID: 7445825126678598586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb034707dec9ec40800000000000000
+      internalID: 5542188239391230970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_106
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27620c856f337d540800000000000000
+      internalID: 5032548241753777778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef426aa435631580800000000000000
+      internalID: -8857624765236359192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a383c5d748d3c390800000000000000
+      internalID: -7799152326634929245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b591ea05b7c0ce460800000000000000
+      internalID: 7272201222070606171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c6a8a491653140800000000000000
+      internalID: 4698769077343535593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8a847fe4a675df0800000000000000
+      internalID: -191567571751229198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_112
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a74e25b909b3a0800000000000000
+      internalID: -6649272701065647734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173a47bb3d341290800000000000000
+      internalID: -7920638517950400739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61f6cd7f7f90bf0800000000000000
+      internalID: -357482051471993179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_115
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a3cafaebdfc110800000000000000
+      internalID: 1283486221099836402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3cccd3695709b0800000000000000
+      internalID: -5114020566414901370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11978f7ddfc775140800000000000000
+      internalID: 4708369365131098385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb35ca6452424f3b0800000000000000
+      internalID: -5479715104084962370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_119
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b5957d56225d90800000000000000
+      internalID: -7110578678818033058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_120
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2879bdbd318911f50800000000000000
+      internalID: 6850423719267637122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc57fa7e6a69e90800000000000000
+      internalID: -7019239455198950273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_122
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909913a827abf3d70800000000000000
+      internalID: 9025137179381307657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_123
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc891cf5212a2f00800000000000000
+      internalID: 1092722306617806041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_124
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5399bcc60edbf7b0800000000000000
+      internalID: -5189310024828480678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f2e6161ef4f51d0800000000000000
+      internalID: -3359878967574253734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38c45481599de8a0800000000000000
+      internalID: -6274190130465683398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c464d20ca39fce30800000000000000
+      internalID: 4525998517521769665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb4b9a65c43b580800000000000000
+      internalID: -8812616110735835922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaad603957555080800000000000000
+      internalID: -9199350623258170718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_130
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881023c1d516775e0800000000000000
+      internalID: -1911952464262594168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a641c000b652d0800000000000000
+      internalID: -3290248960458447028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03d95d4bf5c1ba50800000000000000
+      internalID: 6535222217416495883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_133
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5bb220d8f62f40800000000000000
+      internalID: 5703519550930902097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_134
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac985206808268e0800000000000000
+      internalID: -1701656396139291485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_135
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc8149b3fe696d0800000000000000
+      internalID: -2983934663919612792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_136
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e06bfb55ac71f710800000000000000
+      internalID: 1725297181914259687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_137
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979e524309c1afc10800000000000000
+      internalID: 2088012782915414393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469c9abf82b804520800000000000000
+      internalID: 2684298386049976676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_139
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e966c06c78b46d720800000000000000
+      internalID: 2870564859010639518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_140
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b32d39f44282570800000000000000
+      internalID: 8442037425707039548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf966a63e8900e0800000000000000
+      internalID: -2303153369051956450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_142
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1862aef344f5eb0a0800000000000000
+      internalID: -6863944035331332479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99b518d2bcb5220800000000000000
+      internalID: 2475795816474450402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_144
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c695dde549937f0800000000000000
+      internalID: -632311137507382223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_145
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7454bbff66e3efe80800000000000000
+      internalID: -8143002464141228729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_146
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12a8ccfd1e79020800000000000000
+      internalID: 2348594082022564285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa29ea6e9547e30800000000000000
+      internalID: 4500320774956167121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_148
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9090b90cde5bc450800000000000000
+      internalID: 6110081618606592159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8df95b6df615b50800000000000000
+      internalID: 6580163498525841604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_150
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93538caf5eebeb840800000000000000
+      internalID: 5241836911270049081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sun_Blue_01-512x512_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112b89a535a417850800000000000000
+      internalID: 6372956669568659985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sun_Blue_01-512x512_0: -2145014279165478808
+      Sun_Blue_01-512x512_1: -9155055290846143293
+      Sun_Blue_01-512x512_10: -8681726889741699405
+      Sun_Blue_01-512x512_100: -6131438512997739844
+      Sun_Blue_01-512x512_101: -3095183760848152677
+      Sun_Blue_01-512x512_102: 9125905345821133614
+      Sun_Blue_01-512x512_103: -3686693432536976870
+      Sun_Blue_01-512x512_104: 7445825126678598586
+      Sun_Blue_01-512x512_105: 5542188239391230970
+      Sun_Blue_01-512x512_106: 5032548241753777778
+      Sun_Blue_01-512x512_107: -8857624765236359192
+      Sun_Blue_01-512x512_108: -7799152326634929245
+      Sun_Blue_01-512x512_109: 7272201222070606171
+      Sun_Blue_01-512x512_11: 5467425549356430730
+      Sun_Blue_01-512x512_110: 4698769077343535593
+      Sun_Blue_01-512x512_111: -191567571751229198
+      Sun_Blue_01-512x512_112: -6649272701065647734
+      Sun_Blue_01-512x512_113: -7920638517950400739
+      Sun_Blue_01-512x512_114: -357482051471993179
+      Sun_Blue_01-512x512_115: 1283486221099836402
+      Sun_Blue_01-512x512_116: -5114020566414901370
+      Sun_Blue_01-512x512_117: 4708369365131098385
+      Sun_Blue_01-512x512_118: -5479715104084962370
+      Sun_Blue_01-512x512_119: -7110578678818033058
+      Sun_Blue_01-512x512_12: 95705979963058762
+      Sun_Blue_01-512x512_120: 6850423719267637122
+      Sun_Blue_01-512x512_121: -7019239455198950273
+      Sun_Blue_01-512x512_122: 9025137179381307657
+      Sun_Blue_01-512x512_123: 1092722306617806041
+      Sun_Blue_01-512x512_124: -5189310024828480678
+      Sun_Blue_01-512x512_125: -3359878967574253734
+      Sun_Blue_01-512x512_126: -6274190130465683398
+      Sun_Blue_01-512x512_127: 4525998517521769665
+      Sun_Blue_01-512x512_128: -8812616110735835922
+      Sun_Blue_01-512x512_129: -9199350623258170718
+      Sun_Blue_01-512x512_13: 6585640815483512900
+      Sun_Blue_01-512x512_130: -1911952464262594168
+      Sun_Blue_01-512x512_131: -3290248960458447028
+      Sun_Blue_01-512x512_132: 6535222217416495883
+      Sun_Blue_01-512x512_133: 5703519550930902097
+      Sun_Blue_01-512x512_134: -1701656396139291485
+      Sun_Blue_01-512x512_135: -2983934663919612792
+      Sun_Blue_01-512x512_136: 1725297181914259687
+      Sun_Blue_01-512x512_137: 2088012782915414393
+      Sun_Blue_01-512x512_138: 2684298386049976676
+      Sun_Blue_01-512x512_139: 2870564859010639518
+      Sun_Blue_01-512x512_14: -6589787791593700738
+      Sun_Blue_01-512x512_140: 8442037425707039548
+      Sun_Blue_01-512x512_141: -2303153369051956450
+      Sun_Blue_01-512x512_142: -6863944035331332479
+      Sun_Blue_01-512x512_143: 2475795816474450402
+      Sun_Blue_01-512x512_144: -632311137507382223
+      Sun_Blue_01-512x512_145: -8143002464141228729
+      Sun_Blue_01-512x512_146: 2348594082022564285
+      Sun_Blue_01-512x512_147: 4500320774956167121
+      Sun_Blue_01-512x512_148: 6110081618606592159
+      Sun_Blue_01-512x512_149: 6580163498525841604
+      Sun_Blue_01-512x512_15: 4397217881940444274
+      Sun_Blue_01-512x512_150: 5241836911270049081
+      Sun_Blue_01-512x512_151: 6372956669568659985
+      Sun_Blue_01-512x512_16: -5691495299810161098
+      Sun_Blue_01-512x512_17: 5037859816188359567
+      Sun_Blue_01-512x512_18: 358531103728071253
+      Sun_Blue_01-512x512_19: -8795330970352763917
+      Sun_Blue_01-512x512_2: -6547504870469295090
+      Sun_Blue_01-512x512_20: 7317172136586549238
+      Sun_Blue_01-512x512_21: -4947956262645682859
+      Sun_Blue_01-512x512_22: 6036179556720553779
+      Sun_Blue_01-512x512_23: -8409669751120903267
+      Sun_Blue_01-512x512_24: 4340221482281044218
+      Sun_Blue_01-512x512_25: -1449488727039878698
+      Sun_Blue_01-512x512_26: 1607957772625788424
+      Sun_Blue_01-512x512_27: -9156298279954744051
+      Sun_Blue_01-512x512_28: -1868228092384500813
+      Sun_Blue_01-512x512_29: -2817756738227042893
+      Sun_Blue_01-512x512_3: 842910789381087919
+      Sun_Blue_01-512x512_30: 5021131951553157460
+      Sun_Blue_01-512x512_31: -7360027219742967676
+      Sun_Blue_01-512x512_32: -9137836080883830800
+      Sun_Blue_01-512x512_33: -387886875242407913
+      Sun_Blue_01-512x512_34: -5264936273504048047
+      Sun_Blue_01-512x512_35: -2324547915226840384
+      Sun_Blue_01-512x512_36: -2335938517788550962
+      Sun_Blue_01-512x512_37: 4648206676136711628
+      Sun_Blue_01-512x512_38: -6188335512688266163
+      Sun_Blue_01-512x512_39: -5490384522421139723
+      Sun_Blue_01-512x512_4: 8434186920988326520
+      Sun_Blue_01-512x512_40: -4765574220855140147
+      Sun_Blue_01-512x512_41: 4313147352779549648
+      Sun_Blue_01-512x512_42: -4008586697772081283
+      Sun_Blue_01-512x512_43: -5890733507892031224
+      Sun_Blue_01-512x512_44: 7288339794588274920
+      Sun_Blue_01-512x512_45: 3301826908776433440
+      Sun_Blue_01-512x512_46: 2904664627011669552
+      Sun_Blue_01-512x512_47: -7773215929842820348
+      Sun_Blue_01-512x512_48: -5159916451291521924
+      Sun_Blue_01-512x512_49: -8834040719151977543
+      Sun_Blue_01-512x512_5: 6497817361566479336
+      Sun_Blue_01-512x512_50: -5190717494377772613
+      Sun_Blue_01-512x512_51: -3013266249398181185
+      Sun_Blue_01-512x512_52: 4730571446992333753
+      Sun_Blue_01-512x512_53: 7468806863919353875
+      Sun_Blue_01-512x512_54: -4248235647815610510
+      Sun_Blue_01-512x512_55: -1929305551194429374
+      Sun_Blue_01-512x512_56: -4538272353096446513
+      Sun_Blue_01-512x512_57: 7619299451149973835
+      Sun_Blue_01-512x512_58: 1272595965195287964
+      Sun_Blue_01-512x512_59: -1348320339471485701
+      Sun_Blue_01-512x512_6: -2359158463348945268
+      Sun_Blue_01-512x512_60: 6477587646004183205
+      Sun_Blue_01-512x512_61: 6247916804077857214
+      Sun_Blue_01-512x512_62: 5862601607823808889
+      Sun_Blue_01-512x512_63: -4104045180941563262
+      Sun_Blue_01-512x512_64: 4823005577003417857
+      Sun_Blue_01-512x512_65: 3503605684352292662
+      Sun_Blue_01-512x512_66: 7917464764195321297
+      Sun_Blue_01-512x512_67: -2942521607752738516
+      Sun_Blue_01-512x512_68: 9165411673977603420
+      Sun_Blue_01-512x512_69: 7300925150813234546
+      Sun_Blue_01-512x512_7: -7378734368000688383
+      Sun_Blue_01-512x512_70: 8699646081953146226
+      Sun_Blue_01-512x512_71: -5152997912086577390
+      Sun_Blue_01-512x512_72: -489944333465803145
+      Sun_Blue_01-512x512_73: -5774652194624293482
+      Sun_Blue_01-512x512_74: -6265043545202140501
+      Sun_Blue_01-512x512_75: -5127371641687960184
+      Sun_Blue_01-512x512_76: -5956412109898030194
+      Sun_Blue_01-512x512_77: 4811469406035614487
+      Sun_Blue_01-512x512_78: 1053022402725279478
+      Sun_Blue_01-512x512_79: 4536350441504119298
+      Sun_Blue_01-512x512_8: -3703486780666456452
+      Sun_Blue_01-512x512_80: -3322634527750706935
+      Sun_Blue_01-512x512_81: 7117275210332066981
+      Sun_Blue_01-512x512_82: 8321997322937949520
+      Sun_Blue_01-512x512_83: -2498532467143032139
+      Sun_Blue_01-512x512_84: -59964845997344996
+      Sun_Blue_01-512x512_85: -3195103396443242134
+      Sun_Blue_01-512x512_86: -6951439438181699641
+      Sun_Blue_01-512x512_87: -3199761281187666747
+      Sun_Blue_01-512x512_88: 3950816931235832621
+      Sun_Blue_01-512x512_89: 4593845496231854445
+      Sun_Blue_01-512x512_9: 4903281842950446447
+      Sun_Blue_01-512x512_90: 9220727276530415712
+      Sun_Blue_01-512x512_91: -3929564258068703722
+      Sun_Blue_01-512x512_92: 6824249057931251866
+      Sun_Blue_01-512x512_93: -3895729771524348461
+      Sun_Blue_01-512x512_94: -6963313637370279525
+      Sun_Blue_01-512x512_95: 4892729619498978229
+      Sun_Blue_01-512x512_96: -5173835388947620527
+      Sun_Blue_01-512x512_97: 7333486539679300634
+      Sun_Blue_01-512x512_98: 4801733093718919102
+      Sun_Blue_01-512x512_99: -6279576962693973334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e0afbe851caf4f9e18a2e3d264d1d, type: 3}
+  m_Name: AvatarofTheThreshold_Skill
+  m_EditorClassIdentifier: 
+  skillName: "\uC0AC\uAC74\uC758 \uC9C0\uD3C9\uC120"
+  description: "\uBCF4\uC2A4\uAC00 \uACF5\uAC04\uC744 \uBE44\uD2C0\uBA70 \uD798\uC744
+    \uBAA8\uC74D\uB2C8\uB2E4. \uBCF4\uC2A4\uC5D0\uAC8C [\uC65C\uACE1\uB41C \uBCF4\uD638\uB9C9]
+    (\uCCB4\uB825 30%\uC5D0 \uD574\uB2F9\uD558\uB294 \uC2E4\uB4DC)\uC774 \uC0DD\uAE41\uB2C8\uB2E4."
+  skillIcon: {fileID: 0}
+  type: 1
+  buffToApply:
+  - {fileID: 11400000, guid: f8b6e11edf0d26f4d9a3409f6f620438, type: 2}
+  attackType: 1
+  targetType: 2
+  skillMultiplier: 0.3
+  spCost: 0
+  opCost: 0
+  erGain: 0
+  erReduce: 0
+  animationTime: 0.5
+  preDelay: 0.5
+  postDelay: 0.8
+  totalDuration: 1.5
+  effectPrefab: {fileID: 707561809568019867, guid: 3124dac3ea6714846b3ee98d561c733d, type: 3}
+  hitEffectPrefab: {fileID: 0}
+  useShake: 0
+  shakeIntensity: 0.2
+  shakeDuration: 0.2
+  cameraZoomAmount: 0.8
+  skillSoundEffect: {fileID: 0}

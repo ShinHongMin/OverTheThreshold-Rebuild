@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: abda0a1b94bd0a940b2de7c0687b5cfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7223007362817350149
+    second: OPSKill (089)_0
+  - first:
+      213: -4578959676508462139
+    second: OPSKill (089)_1
+  - first:
+      213: -5602789131909673549
+    second: OPSKill (089)_2
+  - first:
+      213: 1782887357649642566
+    second: OPSKill (089)_3
+  - first:
+      213: -9912783601526478
+    second: OPSKill (089)_4
+  - first:
+      213: -8602616766962781149
+    second: OPSKill (089)_5
+  - first:
+      213: -6799027289267785726
+    second: OPSKill (089)_6
+  - first:
+      213: 3885299361925632358
+    second: OPSKill (089)_7
+  - first:
+      213: 4980525784337220145
+    second: OPSKill (089)_8
+  - first:
+      213: 9019460463063754858
+    second: OPSKill (089)_9
+  - first:
+      213: -41824974757484633
+    second: OPSKill (089)_10
+  - first:
+      213: 4981297674869885106
+    second: OPSKill (089)_11
+  - first:
+      213: 826497940233689623
+    second: OPSKill (089)_12
+  - first:
+      213: 6810321955645742811
+    second: OPSKill (089)_13
+  - first:
+      213: -598733476017051508
+    second: OPSKill (089)_14
+  - first:
+      213: -794165588944603916
+    second: OPSKill (089)_15
+  - first:
+      213: 1002411245891274474
+    second: OPSKill (089)_16
+  - first:
+      213: 2216303458639368248
+    second: OPSKill (089)_17
+  - first:
+      213: 7824086331063449098
+    second: OPSKill (089)_18
+  - first:
+      213: -8158368651667201492
+    second: OPSKill (089)_19
+  - first:
+      213: 3120468475924058268
+    second: OPSKill (089)_20
+  - first:
+      213: 2886678464920099487
+    second: OPSKill (089)_21
+  - first:
+      213: -3053605522449979737
+    second: OPSKill (089)_22
+  - first:
+      213: -7232865479485613856
+    second: OPSKill (089)_23
+  - first:
+      213: 4108185992779046177
+    second: OPSKill (089)_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.2}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OPSKill (089)_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 167
+        width: 570
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a52c66de64d3460800000000000000
+      internalID: 7223007362817350149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 533
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c320e04f644470c0800000000000000
+      internalID: -4578959676508462139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_2
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 534
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdca1928f4ee32b0800000000000000
+      internalID: -5602789131909673549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 523
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644ed3b0b961eb810800000000000000
+      internalID: 1782887357649642566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 464
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23912b63068ccdff0800000000000000
+      internalID: -9912783601526478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_5
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 506
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243d5a01ad5d9880800000000000000
+      internalID: -8602616766962781149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 447
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b10504b005a1a0800000000000000
+      internalID: -6799027289267785726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 431
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66111a93f2b5be530800000000000000
+      internalID: 3885299361925632358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_8
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 455
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132081a10d16e1540800000000000000
+      internalID: 4980525784337220145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_9
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 438
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a686896018f8b2d70800000000000000
+      internalID: 9019460463063754858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 404
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a727d438686b6ff0800000000000000
+      internalID: -41824974757484633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 437
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8491fd7df112540800000000000000
+      internalID: 4981297674869885106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 431
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a98376f7f487b00800000000000000
+      internalID: 826497940233689623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_13
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 439
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdede4c6cbf138e50800000000000000
+      internalID: 6810321955645742811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_14
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 414
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c886ed6631fd0b7f0800000000000000
+      internalID: -598733476017051508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 416
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43e12ca9e8af4f0800000000000000
+      internalID: -794165588944603916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_16
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 422
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c43697b749ed00800000000000000
+      internalID: 1002411245891274474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 404
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305baec044e1ce10800000000000000
+      internalID: 2216303458639368248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 404
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06b607701db49c60800000000000000
+      internalID: 7824086331063449098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_19
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 380
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a1baafe6a7ce80800000000000000
+      internalID: -8158368651667201492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_20
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 404
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901240cb812e4b20800000000000000
+      internalID: 3120468475924058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_21
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 400
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a155205ca8f0820800000000000000
+      internalID: 2886678464920099487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_22
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 382
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a23eb4f96f95d0800000000000000
+      internalID: -3053605522449979737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_23
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 357
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e81313fa23bf9b90800000000000000
+      internalID: -7232865479485613856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSKill (089)_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 361
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d94d2f465330930800000000000000
+      internalID: 4108185992779046177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OPSKill (089)_0: 7223007362817350149
+      OPSKill (089)_1: -4578959676508462139
+      OPSKill (089)_10: -41824974757484633
+      OPSKill (089)_11: 4981297674869885106
+      OPSKill (089)_12: 826497940233689623
+      OPSKill (089)_13: 6810321955645742811
+      OPSKill (089)_14: -598733476017051508
+      OPSKill (089)_15: -794165588944603916
+      OPSKill (089)_16: 1002411245891274474
+      OPSKill (089)_17: 2216303458639368248
+      OPSKill (089)_18: 7824086331063449098
+      OPSKill (089)_19: -8158368651667201492
+      OPSKill (089)_2: -5602789131909673549
+      OPSKill (089)_20: 3120468475924058268
+      OPSKill (089)_21: 2886678464920099487
+      OPSKill (089)_22: -3053605522449979737
+      OPSKill (089)_23: -7232865479485613856
+      OPSKill (089)_24: 4108185992779046177
+      OPSKill (089)_3: 1782887357649642566
+      OPSKill (089)_4: -9912783601526478
+      OPSKill (089)_5: -8602616766962781149
+      OPSKill (089)_6: -6799027289267785726
+      OPSKill (089)_7: 3885299361925632358
+      OPSKill (089)_8: 4980525784337220145
+      OPSKill (089)_9: 9019460463063754858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

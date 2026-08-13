@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e0afbe851caf4f9e18a2e3d264d1d, type: 3}
+  m_Name: Claire_Skill
+  m_EditorClassIdentifier: 
+  skillName: "\uAE34\uAE09 \uCC98\uBC29"
+  description: "\uC544\uAD70 1\uBA85\uC744 \uC9C0\uC815\uD558\uC5EC ATK 200%\uB9CC\uD07C
+    HP\uD68C\uBCF5 \uBC0F ER \uC218\uCE58 \uAC10\uC18C, SP -2,ER -20"
+  skillIcon: {fileID: 9221449604436227378, guid: 384c340173975b2449385931a1041aaf, type: 3}
+  type: 1
+  buffToApply: []
+  attackType: 2
+  targetType: 1
+  skillMultiplier: 2
+  spCost: 2
+  opCost: 0
+  erGain: 0
+  erReduce: 20
+  animationTime: 1
+  preDelay: 0.5
+  postDelay: 0.8
+  totalDuration: 2
+  effectPrefab: {fileID: 707561809568019867, guid: 4b9294ea80d355244960edd1c9a080ef, type: 3}
+  hitEffectPrefab: {fileID: 0}
+  useShake: 0
+  shakeIntensity: 0.2
+  shakeDuration: 0.2
+  cameraZoomAmount: 0.8
+  skillSoundEffect: {fileID: 0}

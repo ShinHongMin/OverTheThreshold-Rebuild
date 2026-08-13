@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970747e1e0094184b88cbc426070299e, type: 3}
+  m_Name: PassiveCard_Normal_START_SHIELD
+  m_EditorClassIdentifier: 
+  cardId: P_NANO_COATING
+  cardName: "\uB098\uB178 \uCF54\uB529"
+  cardImage: {fileID: 21300000, guid: cbaeefc52ea85d84da3f96c6761a76d3, type: 3}
+  Description: "\uC804\uD22C \uC2DC\uC791 \uC2DC 2\uD134\uB3D9\uC548 \uBAA8\uB4E0
+    \uC544\uAD70\uC5D0\uAC8C \uCCB4\uB825 5%\uB9CC\uD07C\uC758 \uBCF4\uD638\uB9C9
+    \uBD80\uC5EC."
+  effectType: 9
+  effectValue: 5
+  rarity: 0
+  rarityBG: {fileID: -2270983095469587532, guid: 0842e4abdc8deee4884d02af40504262, type: 3}

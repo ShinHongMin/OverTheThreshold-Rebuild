@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 33a2872fd5b815149b5a0a59437fc700
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 900778779420288538
+    second: BasicAttack (40)_0
+  - first:
+      213: 4529317187741785992
+    second: BasicAttack (40)_1
+  - first:
+      213: 1203114909282523387
+    second: BasicAttack (40)_2
+  - first:
+      213: 3152512067573795410
+    second: BasicAttack (40)_3
+  - first:
+      213: 6446404425481736085
+    second: BasicAttack (40)_4
+  - first:
+      213: 3105505936259545037
+    second: BasicAttack (40)_5
+  - first:
+      213: 8690967273797662240
+    second: BasicAttack (40)_6
+  - first:
+      213: 7402495041897157878
+    second: BasicAttack (40)_7
+  - first:
+      213: -1645791976425403207
+    second: BasicAttack (40)_8
+  - first:
+      213: 8221159654754141729
+    second: BasicAttack (40)_9
+  - first:
+      213: -206721695061123418
+    second: BasicAttack (40)_10
+  - first:
+      213: -2572045694347986498
+    second: BasicAttack (40)_11
+  - first:
+      213: 2762817147411511180
+    second: BasicAttack (40)_12
+  - first:
+      213: -691519278211806875
+    second: BasicAttack (40)_13
+  - first:
+      213: 7508689398507037436
+    second: BasicAttack (40)_14
+  - first:
+      213: 3540522050876701531
+    second: BasicAttack (40)_15
+  - first:
+      213: -3632560140029922068
+    second: BasicAttack (40)_16
+  - first:
+      213: 4117652408426479780
+    second: BasicAttack (40)_17
+  - first:
+      213: 8125669518307116370
+    second: BasicAttack (40)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.2}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BasicAttack (40)_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 183
+        width: 502
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a166e800785308c00800000000000000
+      internalID: 900778779420288538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 583
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f9b622cfd5bde30800000000000000
+      internalID: 4529317187741785992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 597
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8d2c7b2a252b010800000000000000
+      internalID: 1203114909282523387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 596
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4ed1d509ffbb20800000000000000
+      internalID: 3152512067573795410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 597
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4853abaa367950800000000000000
+      internalID: 6446404425481736085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 589
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7fd920239f81b20800000000000000
+      internalID: 3105505936259545037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 567
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026314550b48c9870800000000000000
+      internalID: 8690967273797662240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 580
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4dedf3502fab660800000000000000
+      internalID: 7402495041897157878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 565
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcc9fecae8f829e0800000000000000
+      internalID: -1645791976425403207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 560
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126c46ff52d671270800000000000000
+      internalID: 8221159654754141729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 517
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed38ea6b3912df0800000000000000
+      internalID: -206721695061123418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 392
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b05a71124e4cd0800000000000000
+      internalID: -2572045694347986498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 405
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8732dabe8f775620800000000000000
+      internalID: 2762817147411511180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 342
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c9da51ea3766f0800000000000000
+      internalID: -691519278211806875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_14
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 335
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2e0c6a939343860800000000000000
+      internalID: 7508689398507037436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 327
+        width: 169
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b71f9fb06722130800000000000000
+      internalID: 3540522050876701531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 274
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f54c7ccd869dc0800000000000000
+      internalID: -3632560140029922068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 279
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0cac89c07d42930800000000000000
+      internalID: 4117652408426479780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasicAttack (40)_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 229
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2554ae0106d24c070800000000000000
+      internalID: 8125669518307116370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BasicAttack (40)_0: 900778779420288538
+      BasicAttack (40)_1: 4529317187741785992
+      BasicAttack (40)_10: -206721695061123418
+      BasicAttack (40)_11: -2572045694347986498
+      BasicAttack (40)_12: 2762817147411511180
+      BasicAttack (40)_13: -691519278211806875
+      BasicAttack (40)_14: 7508689398507037436
+      BasicAttack (40)_15: 3540522050876701531
+      BasicAttack (40)_16: -3632560140029922068
+      BasicAttack (40)_17: 4117652408426479780
+      BasicAttack (40)_18: 8125669518307116370
+      BasicAttack (40)_2: 1203114909282523387
+      BasicAttack (40)_3: 3152512067573795410
+      BasicAttack (40)_4: 6446404425481736085
+      BasicAttack (40)_5: 3105505936259545037
+      BasicAttack (40)_6: 8690967273797662240
+      BasicAttack (40)_7: 7402495041897157878
+      BasicAttack (40)_8: -1645791976425403207
+      BasicAttack (40)_9: 8221159654754141729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

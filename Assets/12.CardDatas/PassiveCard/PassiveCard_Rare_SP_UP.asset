@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970747e1e0094184b88cbc426070299e, type: 3}
+  m_Name: PassiveCard_Rare_SP_UP
+  m_EditorClassIdentifier: 
+  cardId: P_EXTRA_SUPPORT
+  cardName: "\uCD94\uAC00 \uC9C0\uC6D0"
+  cardImage: {fileID: 21300000, guid: 23f6eaa2c13bcd245ab2bcce23740c70, type: 3}
+  Description: "\uC804\uD22C \uC2DC\uC791 \uC2DC, '\uACF5\uC6A9 \uC2A4\uD0AC \uD3EC\uC778\uD2B8(SP)'\uB97C
+    1 \uD68D\uB4DD\uD569\uB2C8\uB2E4."
+  effectType: 7
+  effectValue: 1
+  rarity: 1
+  rarityBG: {fileID: -9095289688072098050, guid: 0842e4abdc8deee4884d02af40504262, type: 3}

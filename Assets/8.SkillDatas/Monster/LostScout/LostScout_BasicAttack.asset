@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e0afbe851caf4f9e18a2e3d264d1d, type: 3}
+  m_Name: LostScout_BasicAttack
+  m_EditorClassIdentifier: 
+  skillName: "\uB3CC\uC9C4"
+  description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+    \uC90D\uB2C8\uB2E4."
+  skillIcon: {fileID: 0}
+  type: 0
+  buffToApply: []
+  attackType: 0
+  targetType: 0
+  skillMultiplier: 1
+  spCost: 0
+  opCost: 0
+  erGain: 0
+  erReduce: 0
+  animationTime: 1.1
+  preDelay: 0.5
+  postDelay: 0.8
+  totalDuration: 2
+  effectPrefab: {fileID: 0}
+  hitEffectPrefab: {fileID: 707561809568019867, guid: f3acc753b3ebff14897986fcef2443d2, type: 3}
+  useShake: 0
+  shakeIntensity: 0.2
+  shakeDuration: 0.2
+  cameraZoomAmount: 0.8
+  skillSoundEffect: {fileID: 0}

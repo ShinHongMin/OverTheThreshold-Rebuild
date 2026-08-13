@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 83be000608f062f4ea421a4804a4183d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8602564492025305065
+    second: OPSkill (100)_0
+  - first:
+      213: -6772091990403324532
+    second: OPSkill (100)_1
+  - first:
+      213: 6514813862919032195
+    second: OPSkill (100)_2
+  - first:
+      213: -3479151961704368021
+    second: OPSkill (100)_3
+  - first:
+      213: 1862861706082921779
+    second: OPSkill (100)_4
+  - first:
+      213: -7510882685428269895
+    second: OPSkill (100)_5
+  - first:
+      213: 8932429731402624627
+    second: OPSkill (100)_6
+  - first:
+      213: 3631563582863521262
+    second: OPSkill (100)_7
+  - first:
+      213: 2190050214104141632
+    second: OPSkill (100)_8
+  - first:
+      213: -335004465992582905
+    second: OPSkill (100)_9
+  - first:
+      213: 1742032103652005008
+    second: OPSkill (100)_10
+  - first:
+      213: 1210981874504728212
+    second: OPSkill (100)_11
+  - first:
+      213: 5292741176335678405
+    second: OPSkill (100)_12
+  - first:
+      213: 6023259740838965480
+    second: OPSkill (100)_13
+  - first:
+      213: 2548298821186132417
+    second: OPSkill (100)_14
+  - first:
+      213: -7771901195793046376
+    second: OPSkill (100)_15
+  - first:
+      213: -8799609323153614846
+    second: OPSkill (100)_16
+  - first:
+      213: 5237458961093136262
+    second: OPSkill (100)_17
+  - first:
+      213: 1429034153992789309
+    second: OPSkill (100)_18
+  - first:
+      213: -3354508108288757906
+    second: OPSkill (100)_19
+  - first:
+      213: -4917434278840805814
+    second: OPSkill (100)_20
+  - first:
+      213: -4106624254316761187
+    second: OPSkill (100)_21
+  - first:
+      213: 4902731284230697632
+    second: OPSkill (100)_22
+  - first:
+      213: -1604724343262280285
+    second: OPSkill (100)_23
+  - first:
+      213: 299610881686056396
+    second: OPSkill (100)_24
+  - first:
+      213: 1966933904357481297
+    second: OPSkill (100)_25
+  - first:
+      213: 7909299196569095040
+    second: OPSkill (100)_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.2}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OPSkill (100)_0
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 542
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e79e80c3d2726770800000000000000
+      internalID: 8602564492025305065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 565
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85edbdf632b402a0800000000000000
+      internalID: -6772091990403324532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 570
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d441df0b4496a50800000000000000
+      internalID: 6514813862919032195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 492
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f10369b197bfc0800000000000000
+      internalID: -3479151961704368021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 531
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d20c01ad63ad910800000000000000
+      internalID: 1862861706082921779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 551
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7a61fdfbf3c790800000000000000
+      internalID: -7510882685428269895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 475
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2461c38d56fb70800000000000000
+      internalID: 8932429731402624627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 519
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee533d776d7e56230800000000000000
+      internalID: 3631563582863521262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 514
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f02fbf01f946e10800000000000000
+      internalID: 2190050214104141632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 505
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b75e8633d95bf0800000000000000
+      internalID: -335004465992582905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 502
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941185f7f0fc2810800000000000000
+      internalID: 1742032103652005008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 490
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e7a4b49954ec010800000000000000
+      internalID: 1210981874504728212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_12
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 499
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3297ce08937940800000000000000
+      internalID: 5292741176335678405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 469
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e03e9a52dae69350800000000000000
+      internalID: 6023259740838965480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 486
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c99852c6406d5320800000000000000
+      internalID: 2548298821186132417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 469
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894625b2a09a42490800000000000000
+      internalID: -7771901195793046376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 483
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208963361f181e580800000000000000
+      internalID: -8799609323153614846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 470
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f84a50d213fa840800000000000000
+      internalID: 5237458961093136262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 455
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d14a0edf2f4d310800000000000000
+      internalID: 1429034153992789309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 465
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fe74106a46271d0800000000000000
+      internalID: -3354508108288757906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 471
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465d5bb393c1cbb0800000000000000
+      internalID: -4917434278840805814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 469
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f227f9ff65207c0800000000000000
+      internalID: -4106624254316761187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_22
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2f3c190200a0440800000000000000
+      internalID: 4902731284230697632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_23
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 457
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50e6546bfdab9e0800000000000000
+      internalID: -1604724343262280285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_24
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 432
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2dbd628e682400800000000000000
+      internalID: 299610881686056396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b56e9f6f3fb4b10800000000000000
+      internalID: 1966933904357481297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPSkill (100)_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 245
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b88c9c6b973cd60800000000000000
+      internalID: 7909299196569095040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OPSkill (100)_0: 8602564492025305065
+      OPSkill (100)_1: -6772091990403324532
+      OPSkill (100)_10: 1742032103652005008
+      OPSkill (100)_11: 1210981874504728212
+      OPSkill (100)_12: 5292741176335678405
+      OPSkill (100)_13: 6023259740838965480
+      OPSkill (100)_14: 2548298821186132417
+      OPSkill (100)_15: -7771901195793046376
+      OPSkill (100)_16: -8799609323153614846
+      OPSkill (100)_17: 5237458961093136262
+      OPSkill (100)_18: 1429034153992789309
+      OPSkill (100)_19: -3354508108288757906
+      OPSkill (100)_2: 6514813862919032195
+      OPSkill (100)_20: -4917434278840805814
+      OPSkill (100)_21: -4106624254316761187
+      OPSkill (100)_22: 4902731284230697632
+      OPSkill (100)_23: -1604724343262280285
+      OPSkill (100)_24: 299610881686056396
+      OPSkill (100)_25: 1966933904357481297
+      OPSkill (100)_26: 7909299196569095040
+      OPSkill (100)_3: -3479151961704368021
+      OPSkill (100)_4: 1862861706082921779
+      OPSkill (100)_5: -7510882685428269895
+      OPSkill (100)_6: 8932429731402624627
+      OPSkill (100)_7: 3631563582863521262
+      OPSkill (100)_8: 2190050214104141632
+      OPSkill (100)_9: -335004465992582905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

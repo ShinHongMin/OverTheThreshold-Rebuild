@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8bf4c43867f0d64f8712894e383ab24, type: 3}
+  m_Name: NodeData_Event
+  m_EditorClassIdentifier: 
+  nodeType: 4
+  nodeName: 
+  icon: {fileID: 21300000, guid: a5b6ecdbc26aa9f47b973c7481d1268a, type: 3}
+  MonsterEncounters: []
+  EventList:
+  - {fileID: 11400000, guid: 684508ec31436e64190bf1761a252875, type: 2}
+  - {fileID: 11400000, guid: c5f7ca14c72f9334dbc58ba74c87e0fe, type: 2}
+  - {fileID: 11400000, guid: d8803c99472282b459464d7ad6463e98, type: 2}
+  - {fileID: 11400000, guid: aa532d77ba5c51d4aa15d7691caf9494, type: 2}
+  - {fileID: 11400000, guid: 609ccf432c468fe4cbd8daec51b2f0a7, type: 2}
+  - {fileID: 11400000, guid: 898471ba4d7b1d44f9c608901b7c7380, type: 2}

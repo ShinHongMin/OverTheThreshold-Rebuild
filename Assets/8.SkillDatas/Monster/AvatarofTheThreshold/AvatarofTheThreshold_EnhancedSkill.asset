@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 363e0afbe851caf4f9e18a2e3d264d1d, type: 3}
+  m_Name: AvatarofTheThreshold_EnhancedSkill
+  m_EditorClassIdentifier: 
+  skillName: "\uD2B9\uC774\uC810 \uD3ED\uBC1C"
+  description: "\uC544\uAD70 \uC804\uCCB4\uC5D0\uAC8C \uCE58\uBA85\uC801\uC778 \uB370\uBBF8\uC9C0
+    (\uAC70\uC758 \uC989\uC0AC\uAE30) + ER 100 \uBD80\uC5EC. "
+  skillIcon: {fileID: 0}
+  type: 1
+  buffToApply: []
+  attackType: 0
+  targetType: 4
+  skillMultiplier: 5
+  spCost: 0
+  opCost: 0
+  erGain: 100
+  erReduce: 0
+  animationTime: 0.5
+  preDelay: 0.5
+  postDelay: 0.8
+  totalDuration: 1.5
+  effectPrefab: {fileID: 0}
+  hitEffectPrefab: {fileID: 707561809568019867, guid: 1a1e61bc3ab4f2d45ae6718a76bf2da9, type: 3}
+  useShake: 1
+  shakeIntensity: 0.4
+  shakeDuration: 0.4
+  cameraZoomAmount: 0.8
+  skillSoundEffect: {fileID: 0}
