@@ -100,6 +100,7 @@ GameObject:
   - component: {fileID: 2870699909037765789}
   - component: {fileID: 9212458363077388618}
   - component: {fileID: -2406731045227845712}
+  - component: {fileID: 1390860920600053730}
   m_Layer: 0
   m_Name: Aegis
   m_TagString: Untagged
@@ -212,6 +213,19 @@ MonoBehaviour:
   animator: {fileID: 2870699909037765789}
   hitPos: {fileID: 2024390808411910205}
   hpBar: {fileID: 0}
+--- !u!114 &1390860920600053730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2269155387486259412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7fb6c1b5026a6646b073fba1312de65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: -2406731045227845712}
 --- !u!1 &2431785566568893874
 GameObject:
   m_ObjectHideFlags: 0

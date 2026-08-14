@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3555263175459363231}
   - component: {fileID: 8659288518608182458}
   - component: {fileID: 8112590411828738255}
+  - component: {fileID: 3464491135463136611}
   m_Layer: 0
   m_Name: Normal_LostScout
   m_TagString: Untagged
@@ -123,6 +124,19 @@ MonoBehaviour:
   animator: {fileID: 3555263175459363231}
   hitPos: {fileID: 5317471073883601649}
   hpBar: {fileID: 5533132320819097140}
+--- !u!114 &3464491135463136611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74374315197566357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7fb6c1b5026a6646b073fba1312de65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 8112590411828738255}
 --- !u!1 &610406870913516505
 GameObject:
   m_ObjectHideFlags: 0

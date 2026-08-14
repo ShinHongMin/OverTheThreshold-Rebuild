@@ -3,137 +3,141 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// 전투 씬 조립. Core 객체를 만들고 화면의 UnitView와 짝지은 뒤 실행시킨다.
+/// 전투 씬 조립. 데이터와 뷰를 짝지어 Unit을 만들고 전투를 진행시킨다.
 ///
-/// 이 클래스에는 전투 규칙이 없다. 계산은 전부 Core가 하고,
-/// 여기서는 그 결과인 CombatEvent를 순서대로 재생할 뿐이다.
+/// 이 클래스에는 전투 규칙도 연출도 없다.
+///   규칙 → Core (UseSkillCommand, DamageFormula)
+///   연출 → CombatEventPlayer
+///   조립 → 여기
 ///
-/// W1 Day5에서 재생 부분을 CombatEventPlayer로 분리한다.
-/// 그때 Core는 한 줄도 바뀌지 않는다.
+/// 현재 턴 진행은 "파티가 순서대로 한 대씩 때린다"는 임시 규칙이다.
+/// W3에서 TurnLoop이 들어오면 이 부분이 Core로 옮겨진다.
 /// </summary>
 public class CombatBootstrap : MonoBehaviour
 {
-    [Header("씬에 배치된 뷰")]
-    [SerializeField] private UnitView aegisView;
-    [SerializeField] private UnitView scoutView;
+    /// <summary>데이터와 화면 오브젝트를 한 쌍으로 묶는다.</summary>
+    [System.Serializable]
+    public class UnitSlot
+    {
+        public UnitData data;
+        public UnitView view;
+    }
 
-    [Header("데미지 텍스트")]
-    [SerializeField] private DamageTextView damageTextPrefab;
-    [SerializeField] private Transform damageTextParent;   // FloatingText가 붙을 Canvas
+    [Header("연결")]
+    [SerializeField] private CombatEventPlayer eventPlayer;
 
-    [Header("Aegis 스탯")]
-    [SerializeField] private float aegisMaxHP = 150f;
-    [SerializeField] private float aegisATK = 10f;
-    [SerializeField] private float aegisDEF = 20f;
+    [Header("파티")]
+    [SerializeField] private List<UnitSlot> party = new List<UnitSlot>();
 
-    [Header("LostScout 스탯")]
-    [SerializeField] private float scoutMaxHP = 40f;
-    [SerializeField] private float scoutATK = 10f;
-    [SerializeField] private float scoutDEF = 5f;
+    [Header("적")]
+    [SerializeField] private List<UnitSlot> enemies = new List<UnitSlot>();
 
-    [Header("기본공격")]
-    [SerializeField] private float basicAttackMultiplier = 1f;
-
-    [Header("연출 타이밍")]
-    [SerializeField] private float preAttackDelay = 0.3f;
-    [SerializeField] private float hitDelay = 0.4f;
-
-    private readonly Dictionary<Unit, UnitView> _views = new Dictionary<Unit, UnitView>();
+    [Header("진행")]
+    [SerializeField] private float startDelay = 0.5f;
+    [SerializeField] private float intervalBetweenActions = 0.5f;
+    [SerializeField] private int maxTurns = 20;
 
     private CombatContext _context;
-    private Unit _aegis;
-    private Unit _scout;
+    private readonly List<Unit> _party = new List<Unit>();
+    private readonly List<Unit> _enemies = new List<Unit>();
+    private readonly Dictionary<Unit, float> _multipliers = new Dictionary<Unit, float>();
 
     private IEnumerator Start()
     {
-        BuildUnits();
+        if (!BuildUnits()) yield break;
 
-        aegisView.PlayEntry();
-        scoutView.PlayEntry();
-        yield return new WaitForSeconds(1f);
-
-        yield return ExecuteOnce();
-
-        Debug.Log($"[종료] {_scout}");
+        yield return new WaitForSeconds(startDelay);
+        yield return RunCombat();
     }
 
-    private void BuildUnits()
+    private bool BuildUnits()
     {
-        _aegis = new Unit("Aegis", new UnitStats(aegisMaxHP, aegisATK, aegisDEF));
-        _scout = new Unit("LostScout", new UnitStats(scoutMaxHP, scoutATK, scoutDEF));
+        BuildSide(party, _party);
+        BuildSide(enemies, _enemies);
 
-        _context = new CombatContext(new[] { _aegis }, new[] { _scout });
-
-        Bind(_aegis, aegisView);
-        Bind(_scout, scoutView);
-    }
-
-    private void Bind(Unit unit, UnitView view)
-    {
-        view.Bind(unit);
-        _views[unit] = view;
-    }
-
-    /// <summary>Aegis가 LostScout를 기본공격으로 1회 타격한다.</summary>
-    private IEnumerator ExecuteOnce()
-    {
-        var command = new UseSkillCommand(_aegis, _scout, basicAttackMultiplier);
-
-        if (!command.CanExecute(_context))
+        if (_party.Count == 0 || _enemies.Count == 0)
         {
-            Debug.LogWarning("[실행 불가] CanExecute가 false를 반환했습니다.");
-            yield break;
+            Debug.LogError("[조립 실패] 파티와 적을 최소 1명씩 등록해야 합니다.");
+            return false;
         }
 
-        // 계산은 여기서 이미 끝난다. 아래는 전부 재생일 뿐이다.
-        CommandResult result = command.Execute(_context);
-
-        _views[_aegis].PlayBasicAttack();
-        yield return new WaitForSeconds(preAttackDelay);
-
-        foreach (CombatEvent combatEvent in result.Events)
-            yield return PlayEvent(combatEvent);
+        _context = new CombatContext(_party, _enemies);
+        return true;
     }
 
-    private IEnumerator PlayEvent(CombatEvent combatEvent)
+    private void BuildSide(List<UnitSlot> slots, List<Unit> target)
     {
-        switch (combatEvent)
+        foreach (UnitSlot slot in slots)
         {
-            case DamageDealt damage:
-                yield return PlayDamage(damage);
-                break;
+            if (slot.data == null || slot.view == null)
+            {
+                Debug.LogWarning("[건너뜀] data 또는 view가 비어 있는 칸이 있습니다.");
+                continue;
+            }
 
-            default:
-                Debug.Log(combatEvent);
-                break;
+            Unit unit = UnitFactory.Create(slot.data);
+
+            target.Add(unit);
+            _multipliers[unit] = slot.data.basicAttackMultiplier;
+            eventPlayer.Register(unit, slot.view);
         }
-    }
-
-    private IEnumerator PlayDamage(DamageDealt damage)
-    {
-        UnitView view = _views[damage.Target];
-
-        view.PlayHit();
-        SpawnDamageText(view, damage.Amount);
-        view.RefreshHpBar();
-
-        Debug.Log(damage);
-
-        if (!damage.Target.IsAlive)
-            view.PlayDead();
-
-        yield return new WaitForSeconds(hitDelay);
     }
 
     /// <summary>
-    /// FloatingText 프리팹은 Canvas 자식으로 생성되어야 한다.
-    /// 월드 좌표는 DamageTextView가 WorldToScreenPoint로 변환한다.
+    /// 임시 진행 규칙: 파티가 순서대로 첫 번째 생존 적을 때린다.
+    /// 적의 반격과 턴 개념은 W3에서 TurnLoop이 담당한다.
     /// </summary>
-    private void SpawnDamageText(UnitView view, float amount)
+    private IEnumerator RunCombat()
     {
-        if (damageTextPrefab == null || damageTextParent == null) return;
+        for (int turn = 1; turn <= maxTurns; turn++)
+        {
+            Debug.Log($"── 턴 {turn} ──");
 
-        DamageTextView text = Instantiate(damageTextPrefab, damageTextParent);
-        text.Show(view.HitPos, amount);
+            foreach (Unit actor in _party)
+            {
+                if (!actor.IsAlive) continue;
+
+                Unit target = FindFirstAlive(_enemies);
+                if (target == null)
+                {
+                    Debug.Log("[승리] 적을 모두 쓰러뜨렸습니다.");
+                    yield break;
+                }
+
+                yield return Act(actor, target);
+                yield return new WaitForSeconds(intervalBetweenActions);
+            }
+        }
+
+        Debug.Log("[종료] 최대 턴에 도달했습니다.");
+    }
+
+    private IEnumerator Act(Unit actor, Unit target)
+    {
+        float multiplier = _multipliers.TryGetValue(actor, out float m) ? m : 1f;
+        var command = new UseSkillCommand(actor, target, multiplier);
+
+        // 예약 시점엔 살아 있었으나 순서가 밀려 죽은 경우 등을 걸러낸다.
+        if (!command.CanExecute(_context))
+        {
+            Debug.Log($"[취소] {actor.Name} → 대상 소멸");
+            yield break;
+        }
+
+        // 계산은 이 한 줄에서 끝난다. 아래는 전부 재생이다.
+        CommandResult result = command.Execute(_context);
+
+        eventPlayer.GetView(actor).PlayBasicAttack();
+        yield return new WaitForSeconds(0.3f);
+
+        yield return eventPlayer.Play(result.Events);
+    }
+
+    private static Unit FindFirstAlive(List<Unit> units)
+    {
+        foreach (Unit unit in units)
+            if (unit.IsAlive) return unit;
+
+        return null;
     }
 }

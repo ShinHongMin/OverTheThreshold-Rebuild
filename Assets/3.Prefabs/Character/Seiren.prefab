@@ -99,6 +99,8 @@ GameObject:
   - component: {fileID: 8113463115022022645}
   - component: {fileID: 2870699909037765789}
   - component: {fileID: 1398548267896742713}
+  - component: {fileID: 3281882039090502860}
+  - component: {fileID: 676399761776835241}
   m_Layer: 0
   m_Name: Seiren
   m_TagString: Untagged
@@ -198,6 +200,34 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.7902634, y: 4.1932483}
   m_EdgeRadius: 0
+--- !u!114 &3281882039090502860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2269155387486259412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5988d7b1596d074ea51e9487d0b2da3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2870699909037765789}
+  hitPos: {fileID: 2024390808411910205}
+  hpBar: {fileID: 0}
+--- !u!114 &676399761776835241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2269155387486259412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7fb6c1b5026a6646b073fba1312de65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 3281882039090502860}
 --- !u!1 &2431785566568893874
 GameObject:
   m_ObjectHideFlags: 0

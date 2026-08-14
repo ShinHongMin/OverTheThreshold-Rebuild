@@ -130,6 +130,8 @@ GameObject:
   - component: {fileID: 8113463115022022645}
   - component: {fileID: 2870699909037765789}
   - component: {fileID: 5899608723917461775}
+  - component: {fileID: 1378042301540632340}
+  - component: {fileID: 9031309071081023993}
   m_Layer: 0
   m_Name: Claire
   m_TagString: Untagged
@@ -227,6 +229,34 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 4.0104017, y: 4.141288}
   m_EdgeRadius: 0
+--- !u!114 &1378042301540632340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2269155387486259412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5988d7b1596d074ea51e9487d0b2da3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2870699909037765789}
+  hitPos: {fileID: 2024390808411910205}
+  hpBar: {fileID: 0}
+--- !u!114 &9031309071081023993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2269155387486259412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7fb6c1b5026a6646b073fba1312de65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  owner: {fileID: 1378042301540632340}
 --- !u!1 &2431785566568893874
 GameObject:
   m_ObjectHideFlags: 0
