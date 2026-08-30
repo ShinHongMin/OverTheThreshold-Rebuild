@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_VoidHunter
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: VoidHunter_BasicAttack
+    displayName: "\uC2EC\uC624\uD55C \uB208\uBE5B"
+    description: "HP\uAC00 \uAC00\uC7A5 \uB0AE\uAC70\uB098 \uBC29\uC5B4\uB825\uC774
+      \uAC00\uC7A5 \uB0AE\uC740 \uC544\uAD70 1\uBA85\uC5D0\uAC8C 2\uD134\uB3D9\uC548 
+      [\uD45C\uC2DD] \uB514\uBC84\uD504\uB97C \uAC81\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208045
+    presentation:
+      attackType: 1
+      animationTime: 0.8
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 2494ab853147c0d418d946e48673ed98, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: VoidHunter_EnhancedSkill
+    displayName: "\uCC98\uD615"
+    description: "[\uD45C\uC2DD]\uC774 \uAC78\uB9B0 \uB300\uC0C1\uC5D0\uAC8C ATK
+      200%\uC758 \uD53C\uD574\uB97C \uC785\uD788\uACE0 ER \uC218\uCE58 25\uB97C \uB204\uC801\uC2DC\uD0B5\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208046
+    - rid: 56651763209208047
+    presentation:
+      attackType: 0
+      animationTime: 0.8
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 461cbc0dc56fb9d44af4cbc09ab6928f, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: VoidHunter_Skill
+    displayName: "\uC2EC\uC624\uD55C \uC77C\uACA9"
+    description: "ATK 100%\uC758 \uD53C\uD574\uB97C \uC785\uD788\uACE0 ER \uC218\uCE58
+      10\uB97C \uB204\uC801\uC2DC\uD0B5\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208048
+    - rid: 56651763209208049
+    presentation:
+      attackType: 0
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 7f5f6cce576fa4f4b94e503b6200c6b9, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208045
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_VoidHunter_Mark
+        buffType: 2
+        value: 0.2
+        durationTurns: 2
+    - rid: 56651763209208046
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 2
+    - rid: 56651763209208047
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 1
+        amount: 25
+    - rid: 56651763209208048
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208049
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 1
+        amount: 10

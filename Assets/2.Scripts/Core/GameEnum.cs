@@ -8,13 +8,7 @@ public enum GameState
     Paused,     // 일시정지
     GameOver    // 게임 오버
 }
-//직군
-public enum CharacterJob
-{
-    Vanguard,   // 뱅가드
-    Resonance,  // 레조넌스
-    Medic       // 메딕
-}
+
 //몬스터 등급
 public enum MonsterRarity
 {
@@ -28,41 +22,6 @@ public enum AttackType
     Melee,  // 근접
     Ranged,  // 원거리
     Support // 지원
-}
-public enum SkillType
-{
-    Basic,      // 일반 공격
-    Special,    // 특수 공격
-    Overload,   // 필살기
-    ECHO     // ECHO상태
-}
-//스킬 대상 분류
-public enum TargetType
-{
-    SingleEnemy,
-    Ally,
-    Self,
-    Team,
-    AllEnmey,
-    Groggy      //보스용
-}
-//버프 종류
-public enum BuffType
-{
-    ATK_Percent,//공격력%
-    DEF_Percent,//방어력%
-
-    Damage_Taken_Percent,//받는 피해량%
-    ER_Resist_Percent,//ER저항
-
-    Taunt,//도발
-}
-//전투 스테이지 상황
-public enum BattleState
-{
-    PlayerTurn_Input,
-    PlayerTurn_Action,
-    EnemyTurn
 }
 
 /// <summary>

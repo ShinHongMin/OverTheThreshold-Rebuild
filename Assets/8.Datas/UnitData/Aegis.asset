@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: Aegis
   m_EditorClassIdentifier: 
   unitName: Aegis
+  job: 0
   baseHP: 150
   baseATK: 10
   baseDEF: 20
   baseERResist: 0.15
-  basicAttackMultiplier: 1
+  basicAttackId: Aegis_BasicAttack
+  skillIds:
+  - 
+  - 
+  - 

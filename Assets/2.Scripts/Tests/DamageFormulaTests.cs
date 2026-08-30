@@ -2,7 +2,6 @@ using NUnit.Framework;
 
 /// <summary>
 /// 데미지 공식 테스트. 씬을 실행하지 않고 EditMode에서 바로 돌아간다.
-/// asmdef 설정이 제대로 됐는지 확인하는 용도도 겸한다.
 /// </summary>
 public class DamageFormulaTests
 {
@@ -45,9 +44,9 @@ public class DamageFormulaTests
     {
         var scout = new Unit("LostScout", new UnitStats(maxHp: 80f, atk: 30f, def: 0f));
 
-        float applied = scout.ApplyDamage(30f);
+        DamageBreakdown applied = scout.ApplyDamage(30f);
 
-        Assert.AreEqual(30f, applied, Tolerance);
+        Assert.AreEqual(30f, applied.HpDamage, Tolerance);
         Assert.AreEqual(50f, scout.CurrentHP, Tolerance);
         Assert.IsTrue(scout.IsAlive);
     }
@@ -57,9 +56,9 @@ public class DamageFormulaTests
     {
         var scout = new Unit("LostScout", new UnitStats(maxHp: 80f, atk: 30f, def: 0f));
 
-        float applied = scout.ApplyDamage(500f);
+        DamageBreakdown applied = scout.ApplyDamage(500f);
 
-        Assert.AreEqual(80f, applied, Tolerance);   // 남은 체력만큼만 깎인다
+        Assert.AreEqual(80f, applied.HpDamage, Tolerance);   // 남은 체력만큼만 깎인다
         Assert.AreEqual(0f, scout.CurrentHP, Tolerance);
         Assert.IsFalse(scout.IsAlive);
     }

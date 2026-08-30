@@ -124,6 +124,7 @@ MonoBehaviour:
   animator: {fileID: 3555263175459363231}
   hitPos: {fileID: 5317471073883601649}
   hpBar: {fileID: 5533132320819097140}
+  shieldBar: {fileID: 3267266572006168576}
 --- !u!114 &5812258672213306893
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -566,6 +567,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbc5d6c20ed1b544c83aad8ac34472da, type: 3}
+--- !u!114 &3267266572006168576 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1896645954866386300, guid: fbc5d6c20ed1b544c83aad8ac34472da, type: 3}
+  m_PrefabInstance: {fileID: 3964738670301384060}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &5533132320819097140 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8920564709929132872, guid: fbc5d6c20ed1b544c83aad8ac34472da, type: 3}

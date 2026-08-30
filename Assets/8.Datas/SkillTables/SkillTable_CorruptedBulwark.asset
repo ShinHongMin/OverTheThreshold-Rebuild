@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_CorruptedBulwark
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: CorruptedBulwark_BasicAttack
+    displayName: "\uB0B4\uB824\uCC0D\uAE30"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+      \uC90D\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208027
+    presentation:
+      attackType: 0
+      animationTime: 1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.7
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: f3acc753b3ebff14897986fcef2443d2, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: CorruptedBulwark_Skill
+    displayName: "\uACF5\uD5C8\uD55C \uBC29\uBCBD"
+    description: "1\uD134\uAC04 [\uB3C4\uBC1C] \uBC0F \uC790\uC2E0\uC5D0\uAC8C DEF
+      200%\uB9CC\uD07C\uC758 [\uC2E4\uB4DC]\uB97C \uC81C\uACF5"
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 2
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208028
+    presentation:
+      attackType: 2
+      animationTime: 1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: f3d258846d1268d4dad5d780b139ae7e, type: 3}
+      useShake: 1
+      shakeIntensity: 0.3
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208027
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208028
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_CorruptedBulwark_Taunt
+        buffType: 4
+        value: 0
+        durationTurns: 2

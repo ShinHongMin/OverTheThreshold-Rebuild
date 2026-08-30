@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_WhisperingEcho
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: WhisperingEcho_BasicAttack
+    displayName: "\uBE44\uBA85"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+      \uC90D\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208038
+    - rid: 56651763209208039
+    presentation:
+      attackType: 0
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: d809e8e6e932a3b4b946c8c740205978, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: WhisperingEcho_Skill
+    displayName: "\uC624\uC5FC\uB41C \uC18D\uC0AD\uC784"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C \uD53C\uD574 \uC5C6\uC774
+      ER \uC218\uCE58 30\uC744 \uB204\uC801\uC2DC\uD0B5\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208040
+    presentation:
+      attackType: 1
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: e4aa4d769f6aa5148a190086691b1825, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208038
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208039
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        amount: 10
+    - rid: 56651763209208040
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        amount: 30

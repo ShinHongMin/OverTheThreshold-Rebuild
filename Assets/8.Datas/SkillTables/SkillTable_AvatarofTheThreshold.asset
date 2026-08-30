@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_AvatarofTheThreshold
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: AvatarofTheThreshold_BasicAttack
+    displayName: "\uBD95\uAD34\uC758 \uC190\uAE38"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uC640
+      ER 15\uC744 \uBD80\uC5EC\uD569\uB2C8\uB2E4. \uB9CC\uC57D ER\uC774 50\uC774\uC0C1\uC77C
+      \uACBD\uC6B0 \uD55C\uBC88 \uB354 \uD53C\uD574\uAC00 \uB4E4\uC5B4\uAC11\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208032
+    - rid: 56651763209208033
+    presentation:
+      attackType: 1
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 9b26ae834a85cd7489e0afde061ac7c8, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: AvatarofTheThreshold_EnhancedSkill
+    displayName: "\uD2B9\uC774\uC810 \uD3ED\uBC1C"
+    description: "\uC544\uAD70 \uC804\uCCB4\uC5D0\uAC8C \uCE58\uBA85\uC801\uC778
+      \uB370\uBBF8\uC9C0 (\uAC70\uC758 \uC989\uC0AC\uAE30) + ER 100 \uBD80\uC5EC. "
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 4
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208034
+    - rid: 56651763209208035
+    presentation:
+      attackType: 0
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 1a1e61bc3ab4f2d45ae6718a76bf2da9, type: 3}
+      useShake: 1
+      shakeIntensity: 0.4
+      shakeDuration: 0.4
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: AvatarofTheThreshold_Groggy
+    displayName: 
+    description: "\uADF8\uB85C\uAE30\uC0C1\uD0DC\uAC00 \uB418\uACE0 \uC57D\uCCB4\uD654\uAC00
+      \uC801\uC6A9\uB429\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 5
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208036
+    presentation:
+      attackType: 0
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: AvatarofTheThreshold_Skill
+    displayName: "\uC0AC\uAC74\uC758 \uC9C0\uD3C9\uC120"
+    description: "\uBCF4\uC2A4\uAC00 \uACF5\uAC04\uC744 \uBE44\uD2C0\uBA70 \uD798\uC744
+      \uBAA8\uC74D\uB2C8\uB2E4. \uBCF4\uC2A4\uC5D0\uAC8C [\uC65C\uACE1\uB41C \uBCF4\uD638\uB9C9]
+      (\uCCB4\uB825 30%\uC5D0 \uD574\uB2F9\uD558\uB294 \uC2E4\uB4DC)\uC774 \uC0DD\uAE41\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 2
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208037
+    presentation:
+      attackType: 1
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 707561809568019867, guid: 3124dac3ea6714846b3ee98d561c733d, type: 3}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208032
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208033
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        amount: 15
+    - rid: 56651763209208034
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 5
+    - rid: 56651763209208035
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 1
+        amount: 100
+    - rid: 56651763209208036
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_AvatarofTheThreshold_Groggy
+        buffType: 1
+        value: -0.5
+        durationTurns: 2
+    - rid: 56651763209208037
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_AvatarofTheThreshold_Charge
+        buffType: 0
+        value: 0
+        durationTurns: 2

@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: WhisperingEcho
   m_EditorClassIdentifier: 
   unitName: WhisperingEcho
+  job: 0
   baseHP: 30
   baseATK: 5
   baseDEF: 0
   baseERResist: 0
-  basicAttackMultiplier: 1
+  basicAttackId: WhisperingEcho_BasicAttack
+  skillIds: []

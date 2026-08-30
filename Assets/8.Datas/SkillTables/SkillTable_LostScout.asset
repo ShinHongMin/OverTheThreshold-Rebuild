@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_LostScout
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: LostScout_BasicAttack
+    displayName: "\uB3CC\uC9C4"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+      \uC90D\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208011
+    presentation:
+      attackType: 0
+      animationTime: 1.1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: f3acc753b3ebff14897986fcef2443d2, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: LostScout_Skill
+    displayName: "\uC2E0\uD638 \uAD50\uB780"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK 80%\uC758 \uD53C\uD574\uB97C
+      \uC8FC\uACE0, ER \uC218\uCE58\uB97C 10 \uB204\uC801\uC2DC\uD0B5\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 0
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208012
+    - rid: 56651763209208013
+    presentation:
+      attackType: 1
+      animationTime: 1.3
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 3f7b0a83db2c1334587b3c6bda446f1b, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208011
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208012
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 0.8
+    - rid: 56651763209208013
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 1
+        amount: 10

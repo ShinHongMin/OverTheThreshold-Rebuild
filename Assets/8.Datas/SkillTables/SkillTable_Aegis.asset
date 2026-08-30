@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_Aegis
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: Aegis_BasicAttack
+    displayName: "\uC9C4\uC555 \uD0C0\uACA9"
+    description: "\uB2E8\uC77C\uC801\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+      \uC785\uD788\uACE0, SP +1"
+    skillIcon: {fileID: -510803784845879414, guid: 367ab98f90cbd4442ae05effcbecf722, type: 3}
+    type: 0
+    targetType: 0
+    spCost: 1
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208041
+    presentation:
+      attackType: 0
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 0e4b113797a296140888ce774ec614bc, type: 3}
+      useShake: 1
+      shakeIntensity: 0.2
+      shakeDuration: 0.1
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: Aegis_OPSkill
+    displayName: "\uAD73\uC13C \uB9F9\uC138"
+    description: "OP\uB97C 3\uC18C\uBAA8\uD558\uACE0 3\uD134\uB3D9\uC548 \uBAA8\uB4E0
+      \uC544\uAD70\uC758 \uBC29\uC5B4\uB825 30%\uC99D\uAC00\uC640 [ER \uC800\uD56D]
+      20% \uC99D\uAC00"
+    skillIcon: {fileID: 9112956226854664630, guid: eb817accb29501044b9d69c16e34f10e, type: 3}
+    type: 2
+    targetType: 3
+    spCost: 0
+    opCost: 3
+    erCost: 0
+    effects:
+    - rid: 56651763209208042
+    - rid: 56651763209208043
+    presentation:
+      attackType: 2
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 707561809568019867, guid: 88329f1dc044bc149bb4b088d263bab1, type: 3}
+      hitEffectPrefab: {fileID: 3354424220917826450, guid: 03381e5de6aeb724e9bd5d6a81d68b12, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: Aegis_Skill
+    displayName: "\uBCF4\uD638 \uD504\uB85C\uD1A0\uCF5C"
+    description: "2\uD134\uAC04 [\uB3C4\uBC1C] \uBC0F \uC790\uC2E0\uC5D0\uAC8C DEF
+      300%\uB9CC\uD07C\uC758 [\uC2E4\uB4DC]\uB97C \uC81C\uACF5, SP -2"
+    skillIcon: {fileID: -165370197536610621, guid: 010022dcdcb1cb34e91854774030e464, type: 3}
+    type: 1
+    targetType: 2
+    spCost: 2
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208044
+    presentation:
+      attackType: 2
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 707561809568019867, guid: f3d258846d1268d4dad5d780b139ae7e, type: 3}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208041
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208042
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_Aegis_DEF_UP
+        buffType: 1
+        value: 0.3
+        durationTurns: 2
+    - rid: 56651763209208043
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_Aegis_ERRESIST_UP
+        buffType: 3
+        value: 0.2
+        durationTurns: 2
+    - rid: 56651763209208044
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_Aegis_Taunt
+        buffType: 4
+        value: 0
+        durationTurns: 2

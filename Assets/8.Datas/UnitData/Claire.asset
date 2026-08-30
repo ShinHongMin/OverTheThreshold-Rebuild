@@ -10,11 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c5e9e3a261b716443b263353e0e4696e, type: 3}
-  m_Name: Seiren
+  m_Name: Claire
   m_EditorClassIdentifier: 
-  unitName: Serien
-  baseHP: 120
-  baseATK: 20
-  baseDEF: 10
-  baseERResist: 0
-  basicAttackMultiplier: 1
+  unitName: Claire
+  job: 2
+  baseHP: 100
+  baseATK: 15
+  baseDEF: 15
+  baseERResist: 0.1
+  basicAttackId: Claire_BasicAttack
+  skillIds: []

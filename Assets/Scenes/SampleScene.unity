@@ -217,8 +217,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a335bd32f9bee384c8cb0a81aace9d7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  castDelay: 0.3
   hitDelay: 0.4
   deathDelay: 0.6
+  supportDelay: 0.3
   damageTextPrefab: {fileID: 3758698806210105862, guid: 8348088b1be1d73439d361608c30deef, type: 3}
   damageTextParent: {fileID: 1276408027}
 --- !u!4 &220977001
@@ -624,6 +626,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   eventPlayer: {fileID: 220977000}
+  skillTables:
+  - {fileID: 11400000, guid: 871f0654c3774a34b81ca92432bb7f32, type: 2}
+  - {fileID: 11400000, guid: 26a5a9297e290f042aaa3bc95db35687, type: 2}
+  - {fileID: 11400000, guid: ee98b0dc7a9e8f84d86913211381df21, type: 2}
+  - {fileID: 11400000, guid: 3769cf35cb76ce94bb3a49d17389e1c5, type: 2}
+  - {fileID: 11400000, guid: 8caace992b41b394a8cb2ba16b4b405e, type: 2}
+  - {fileID: 11400000, guid: 66d274a68f54c9f41988339ffa7dff15, type: 2}
+  - {fileID: 11400000, guid: c0d15d7d3041f9f4e92c1701146cd3cb, type: 2}
+  - {fileID: 11400000, guid: b675903b6e9b97340b62cc31603ab4e5, type: 2}
+  - {fileID: 11400000, guid: 9e08ea4d087c04f4abe609271c952c03, type: 2}
   party:
   - data: {fileID: 11400000, guid: 5af18ed07d8d8424cb538b636c726c42, type: 2}
     view: {fileID: 826191179}
@@ -637,8 +649,9 @@ MonoBehaviour:
   - data: {fileID: 11400000, guid: e041eda6fd7e363498e712880b2c2fe1, type: 2}
     view: {fileID: 1929141027}
   startDelay: 0.5
-  intervalBetweenActions: 0.5
+  turnInterval: 0.6
   maxTurns: 20
+  randomSeed: 0
 --- !u!4 &1039304804
 Transform:
   m_ObjectHideFlags: 0

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_Claire
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: Claire_BasicAttack
+    displayName: "\uBE5B\uC758 \uC794\uC601"
+    description: "\uB2E8\uC77C\uC801\uC5D0\uAC8C ATK 100%\uC758 \uD53C\uD574\uB97C
+      \uC785\uD788\uACE0, SP +1"
+    skillIcon: {fileID: 8538751569505241195, guid: b3b23da4c81d60547aeb47302f4ce4b9, type: 3}
+    type: 0
+    targetType: 0
+    spCost: 1
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208029
+    presentation:
+      attackType: 1
+      animationTime: 1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 3f032883274075e4da453b3a3b610836, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: Claire_OPSkill
+    displayName: "\uC2DC\uC2A4\uD15C \uBCF5\uC6D0"
+    description: "OP\uB97C 5\uC18C\uBAA8\uD558\uACE0 ATK 150%\uB9CC\uD07C \uBAA8\uB4E0
+      \uC544\uAD70\uC758 HP\uD68C\uBCF5 \uBC0F ER -40."
+    skillIcon: {fileID: -866784273052507401, guid: 853988bc01e06df47976988a29879b6e, type: 3}
+    type: 2
+    targetType: 3
+    spCost: 0
+    opCost: 5
+    erCost: 0
+    effects:
+    - rid: 56651763209208030
+    presentation:
+      attackType: 2
+      animationTime: 1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 707561809568019867, guid: 4b9294ea80d355244960edd1c9a080ef, type: 3}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: Claire_Skill
+    displayName: "\uAE34\uAE09 \uCC98\uBC29"
+    description: "\uC544\uAD70 1\uBA85\uC744 \uC9C0\uC815\uD558\uC5EC ATK 200%\uB9CC\uD07C
+      HP\uD68C\uBCF5 \uBC0F ER \uC218\uCE58 \uAC10\uC18C, SP -2,ER -20"
+    skillIcon: {fileID: 9221449604436227378, guid: 384c340173975b2449385931a1041aaf, type: 3}
+    type: 1
+    targetType: 1
+    spCost: 2
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208031
+    presentation:
+      attackType: 2
+      animationTime: 1
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 2
+      effectPrefab: {fileID: 707561809568019867, guid: 4b9294ea80d355244960edd1c9a080ef, type: 3}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208029
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1
+    - rid: 56651763209208030
+      type: {class: ERReduceEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        amount: 40
+    - rid: 56651763209208031
+      type: {class: ERReduceEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        amount: 20

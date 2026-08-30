@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2e20e45e6bab84fbd1aa8d494e8aa1, type: 3}
+  m_Name: SkillTable_ThresholdMass
+  m_EditorClassIdentifier: 
+  skills:
+  - skillId: ThresholdMass_BasicAttack
+    displayName: "\uC9C8\uB7C9 \uD0C0\uACA9"
+    description: "\uB2E8\uC77C \uB300\uC0C1\uC5D0\uAC8C ATK150% \uD53C\uD574\uB97C
+      \uC90D\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 0
+    targetType: 0
+    spCost: 10
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208023
+    presentation:
+      attackType: 1
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 0e4b113797a296140888ce774ec614bc, type: 3}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: ThresholdMass_EnhancedSkill
+    displayName: "\uBC29\uCD9C"
+    description: "\uBAA8\uB4E0 \uC544\uAD70\uC5D0\uAC8C ATK 200%\uC758 \uD53C\uD574\uB97C
+      \uC785\uD788\uACE0 ER \uC218\uCE58 20\uC744 \uB204\uC801\uC2DC\uD0B5\uB2C8\uB2E4."
+    skillIcon: {fileID: 0}
+    type: 2
+    targetType: 4
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208024
+    - rid: 56651763209208025
+    presentation:
+      attackType: 1
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 0}
+      hitEffectPrefab: {fileID: 707561809568019867, guid: 82ccba473a47d0942a90bce3a3aa9500, type: 3}
+      useShake: 1
+      shakeIntensity: 0.4
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  - skillId: ThresholdMass_Skill
+    displayName: "\uD30C\uB3D9 \uB3D9\uAE30\uD654"
+    description: "1\uD134 \uB3D9\uC548 \uD798\uC744 \uBAA8\uC74D\uB2C8\uB2E4. \uC774\uB54C
+      \uBC29\uC5B4\uB825 \uC99D\uAC00 \uBC84\uD504 \uD68D\uB4DD(30%)"
+    skillIcon: {fileID: 0}
+    type: 1
+    targetType: 2
+    spCost: 0
+    opCost: 0
+    erCost: 0
+    effects:
+    - rid: 56651763209208026
+    presentation:
+      attackType: 2
+      animationTime: 0.5
+      preDelay: 0.5
+      postDelay: 0.8
+      totalDuration: 1.5
+      effectPrefab: {fileID: 707561809568019867, guid: 28b87bf4f587f6f41a42b5b1873c6007, type: 3}
+      hitEffectPrefab: {fileID: 0}
+      useShake: 0
+      shakeIntensity: 0.2
+      shakeDuration: 0.2
+      cameraZoomAmount: 0.8
+      skillSoundEffect: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: 56651763209208023
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 1.5
+    - rid: 56651763209208024
+      type: {class: DamageEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        multiplier: 2
+    - rid: 56651763209208025
+      type: {class: ERGainEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 1
+        amount: 20
+    - rid: 56651763209208026
+      type: {class: BuffEffect, ns: , asm: OTT.Core}
+      data:
+        effectTarget: 0
+        buffId: Buff_ThresholdMass_DEF_UP
+        buffType: 1
+        value: 0.3
+        durationTurns: 2
