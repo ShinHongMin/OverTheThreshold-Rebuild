@@ -1,0 +1,16 @@
+# Public repository: source code and environment references only.
+/*
+!/README.md
+!/.gitignore
+!/Source/
+!/Reference/
+
+/Source/**
+!/Source/**/
+!/Source/**/*.cs
+!/Source/**/*.asmdef
+
+/Reference/*
+!/Reference/ProjectVersion.txt
+!/Reference/manifest.json
+!/Reference/packages-lock.json
